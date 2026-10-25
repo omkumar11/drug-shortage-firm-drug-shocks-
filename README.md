@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23630836.svg)](https://doi.org/10.5281/zenodo.23630836)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23630835.svg)](https://doi.org/10.5281/zenodo.23630835)
 
 # Code for "Manufacturer-Level and Drug-Level Shocks on the U.S. Drug Shortage List: Identification, Persistence and Supplier Redundancy" (Kumar & Salwekar)
 
