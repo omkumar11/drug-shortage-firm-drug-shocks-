@@ -4,3 +4,5 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 results/run_all_final_om.log
+data/raw/archive/
+data/raw/archive_csv/Drugshortages-wayback-*.csv
