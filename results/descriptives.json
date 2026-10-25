@@ -1,0 +1,763 @@
+{
+ "firm_unit": "company",
+ "n_presentations": 1141,
+ "n_presentations_unavailable": 400,
+ "n_cells": 284,
+ "n_cells_unavailable": 151,
+ "cell_rate": 0.5316901408450704,
+ "n_drugs": 69,
+ "n_firms": 90,
+ "n_labeler_codes": 112,
+ "n_drugs_injectable": 50,
+ "share_presentations_injectable": 0.6914986853637161,
+ "firms_with_2plus_drugs": 40,
+ "drugs_with_2plus_firms": 60,
+ "drugs_single_firm": 9,
+ "median_firms_per_drug": 3.0,
+ "max_firms_per_drug": 15,
+ "median_drugs_per_firm": 1.0,
+ "top_firms": [
+  {
+   "firm": "FRESENIUS KABI",
+   "n_drugs": 30,
+   "n_unavailable": 21
+  },
+  {
+   "firm": "HIKMA",
+   "n_drugs": 28,
+   "n_unavailable": 16
+  },
+  {
+   "firm": "HOSPIRA",
+   "n_drugs": 26,
+   "n_unavailable": 20
+  },
+  {
+   "firm": "BAXTER",
+   "n_drugs": 16,
+   "n_unavailable": 8
+  },
+  {
+   "firm": "EUGIA",
+   "n_drugs": 11,
+   "n_unavailable": 7
+  },
+  {
+   "firm": "TEVA",
+   "n_drugs": 10,
+   "n_unavailable": 9
+  },
+  {
+   "firm": "B BRAUN",
+   "n_drugs": 7,
+   "n_unavailable": 1
+  },
+  {
+   "firm": "ACCORD",
+   "n_drugs": 7,
+   "n_unavailable": 5
+  },
+  {
+   "firm": "GLAND",
+   "n_drugs": 7,
+   "n_unavailable": 4
+  },
+  {
+   "firm": "SOMERSET",
+   "n_drugs": 6,
+   "n_unavailable": 0
+  }
+ ],
+ "share_cells_top5_firms": 0.3908450704225352,
+ "reason_counts": {
+  "(none)": 731,
+  "Other": 151,
+  "Demand increase for the drug": 106,
+  "Shortage of an active ingredient": 60,
+  "Discontinuation of the manufacture of the drug": 50,
+  "Delay in shipping of the drug": 20,
+  "Requirements related to complying with good manufacturing practices": 17,
+  "Shortage of an inactive ingredient component": 4,
+  "Regulatory delay": 2
+ },
+ "reason_counts_unavailable": {
+  "Other": 150,
+  "Demand increase for the drug": 99,
+  "Shortage of an active ingredient": 60,
+  "Discontinuation of the manufacture of the drug": 50,
+  "Delay in shipping of the drug": 20,
+  "Requirements related to complying with good manufacturing practices": 16,
+  "Shortage of an inactive ingredient component": 2,
+  "Regulatory delay": 2,
+  "(none)": 1
+ },
+ "reason_unavailable_rate": {
+  "(none)": 0.0013679890560875513,
+  "Delay in shipping of the drug": 1.0,
+  "Demand increase for the drug": 0.9339622641509434,
+  "Discontinuation of the manufacture of the drug": 1.0,
+  "Other": 0.9933774834437086,
+  "Regulatory delay": 1.0,
+  "Requirements related to complying with good manufacturing practices": 0.9411764705882353,
+  "Shortage of an active ingredient": 1.0,
+  "Shortage of an inactive ingredient component": 0.5
+ },
+ "dispersion_firm": {
+  "observed_var": 0.10712568043012599,
+  "binomial_var": 0.08106568467203837,
+  "ratio": 1.3214676575361903,
+  "n_groups": 40
+ },
+ "perm_firm": {
+  "observed": 0.10712568043012599,
+  "null_mean": 0.07682257842619487,
+  "null_sd": 0.01511814285797394,
+  "null_q95": 0.10193492786086228,
+  "p_value": 0.02359882005899705
+ },
+ "dispersion_drug": {
+  "observed_var": 0.07242632775684515,
+  "binomial_var": 0.0741289747288371,
+  "ratio": 0.9770312893410409,
+  "n_groups": 60
+ },
+ "perm_drug": {
+  "observed": 0.07242632775684515,
+  "null_mean": 0.0671992407797709,
+  "null_sd": 0.010358669550627045,
+  "null_q95": 0.08444893032599216,
+  "p_value": 0.30278486075696215
+ },
+ "sharing_cov": {
+  "cov_shared_firm": 0.023571486537663885,
+  "n_pairs_firm": 1540,
+  "cov_shared_drug": 0.0072541478121745185,
+  "n_pairs_drug": 751,
+  "cov_unrelated": -0.002034710348097182,
+  "n_pairs_unrelated": 37895,
+  "var_y": 0.2489957349732196
+ },
+ "co_unavailability": {
+  "same_firm": {
+   "p_second_given_first": 0.6557711950970377,
+   "p_second": 0.6357142857142857,
+   "n_ordered_pairs_first_unavailable": 1958,
+   "n_ordered_pairs": 3080
+  },
+  "same_drug": {
+   "p_second_given_first": 0.5020352781546812,
+   "p_second": 0.49067909454061254,
+   "n_ordered_pairs_first_unavailable": 737,
+   "n_ordered_pairs": 1502
+  },
+  "unrelated": {
+   "p_second_given_first": 0.524401818272641,
+   "p_second": 0.5282754980868188,
+   "n_ordered_pairs_first_unavailable": 40038,
+   "n_ordered_pairs": 75790
+  },
+  "cell_rate": 0.5316901408450704
+ },
+ "co_unavailability_excl_top3": {
+  "same_firm": {
+   "p_second_given_first": 0.5851318944844125,
+   "p_second": 0.5186567164179104,
+   "n_ordered_pairs_first_unavailable": 417,
+   "n_ordered_pairs": 804
+  },
+  "same_drug": {
+   "p_second_given_first": 0.45454545454545453,
+   "p_second": 0.4429530201342282,
+   "n_ordered_pairs_first_unavailable": 396,
+   "n_ordered_pairs": 894
+  },
+  "unrelated": {
+   "p_second_given_first": 0.4648745319398648,
+   "p_second": 0.4696078945987087,
+   "n_ordered_pairs_first_unavailable": 17893,
+   "n_ordered_pairs": 38102
+  },
+  "cell_rate": 0.47,
+  "firms": [
+   "FRESENIUS KABI",
+   "HIKMA",
+   "HOSPIRA"
+  ],
+  "share_same_firm_pairs_from_top3": 0.7389610389610389
+ },
+ "firm_table_min_drugs": 5,
+ "firm_table": [
+  {
+   "firm": "FRESENIUS KABI",
+   "listed": 30,
+   "unavailable": 21,
+   "unavailable_only": 18,
+   "reason_firm": 10,
+   "reason_market": 7,
+   "reason_other": 4,
+   "reason_none": 0
+  },
+  {
+   "firm": "HIKMA",
+   "listed": 28,
+   "unavailable": 16,
+   "unavailable_only": 14,
+   "reason_firm": 1,
+   "reason_market": 12,
+   "reason_other": 3,
+   "reason_none": 0
+  },
+  {
+   "firm": "HOSPIRA",
+   "listed": 26,
+   "unavailable": 20,
+   "unavailable_only": 16,
+   "reason_firm": 1,
+   "reason_market": 5,
+   "reason_other": 14,
+   "reason_none": 0
+  },
+  {
+   "firm": "BAXTER",
+   "listed": 16,
+   "unavailable": 8,
+   "unavailable_only": 6,
+   "reason_firm": 2,
+   "reason_market": 3,
+   "reason_other": 3,
+   "reason_none": 0
+  },
+  {
+   "firm": "EUGIA",
+   "listed": 11,
+   "unavailable": 7,
+   "unavailable_only": 7,
+   "reason_firm": 0,
+   "reason_market": 7,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "TEVA",
+   "listed": 10,
+   "unavailable": 9,
+   "unavailable_only": 5,
+   "reason_firm": 0,
+   "reason_market": 0,
+   "reason_other": 9,
+   "reason_none": 0
+  },
+  {
+   "firm": "ACCORD",
+   "listed": 7,
+   "unavailable": 5,
+   "unavailable_only": 5,
+   "reason_firm": 4,
+   "reason_market": 0,
+   "reason_other": 1,
+   "reason_none": 0
+  },
+  {
+   "firm": "GLAND",
+   "listed": 7,
+   "unavailable": 4,
+   "unavailable_only": 4,
+   "reason_firm": 3,
+   "reason_market": 0,
+   "reason_other": 1,
+   "reason_none": 0
+  },
+  {
+   "firm": "B BRAUN",
+   "listed": 7,
+   "unavailable": 1,
+   "unavailable_only": 0,
+   "reason_firm": 0,
+   "reason_market": 0,
+   "reason_other": 1,
+   "reason_none": 0
+  },
+  {
+   "firm": "AMPHASTAR",
+   "listed": 6,
+   "unavailable": 2,
+   "unavailable_only": 0,
+   "reason_firm": 0,
+   "reason_market": 2,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "MYLAN INSTITUTIONAL",
+   "listed": 6,
+   "unavailable": 1,
+   "unavailable_only": 1,
+   "reason_firm": 0,
+   "reason_market": 1,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "SOMERSET",
+   "listed": 6,
+   "unavailable": 0,
+   "unavailable_only": 0,
+   "reason_firm": 0,
+   "reason_market": 0,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "OTSUKA ICU",
+   "listed": 5,
+   "unavailable": 3,
+   "unavailable_only": 3,
+   "reason_firm": 2,
+   "reason_market": 1,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "MEITHEAL",
+   "listed": 5,
+   "unavailable": 0,
+   "unavailable_only": 0,
+   "reason_firm": 0,
+   "reason_market": 0,
+   "reason_other": 0,
+   "reason_none": 0
+  }
+ ],
+ "firm_table_marketer": [
+  {
+   "firm": "FRESENIUS KABI",
+   "listed": 31,
+   "unavailable": 21,
+   "unavailable_only": 18,
+   "reason_firm": 10,
+   "reason_market": 7,
+   "reason_other": 4,
+   "reason_none": 0
+  },
+  {
+   "firm": "HOSPIRA",
+   "listed": 28,
+   "unavailable": 21,
+   "unavailable_only": 16,
+   "reason_firm": 1,
+   "reason_market": 5,
+   "reason_other": 15,
+   "reason_none": 0
+  },
+  {
+   "firm": "HIKMA",
+   "listed": 28,
+   "unavailable": 16,
+   "unavailable_only": 14,
+   "reason_firm": 1,
+   "reason_market": 12,
+   "reason_other": 3,
+   "reason_none": 0
+  },
+  {
+   "firm": "BAXTER",
+   "listed": 17,
+   "unavailable": 9,
+   "unavailable_only": 6,
+   "reason_firm": 2,
+   "reason_market": 3,
+   "reason_other": 4,
+   "reason_none": 0
+  },
+  {
+   "firm": "EUGIA",
+   "listed": 11,
+   "unavailable": 7,
+   "unavailable_only": 7,
+   "reason_firm": 0,
+   "reason_market": 7,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "SAGENT",
+   "listed": 8,
+   "unavailable": 7,
+   "unavailable_only": 6,
+   "reason_firm": 3,
+   "reason_market": 1,
+   "reason_other": 3,
+   "reason_none": 0
+  },
+  {
+   "firm": "ACCORD",
+   "listed": 7,
+   "unavailable": 5,
+   "unavailable_only": 5,
+   "reason_firm": 4,
+   "reason_market": 0,
+   "reason_other": 1,
+   "reason_none": 0
+  },
+  {
+   "firm": "B BRAUN",
+   "listed": 7,
+   "unavailable": 1,
+   "unavailable_only": 0,
+   "reason_firm": 0,
+   "reason_market": 0,
+   "reason_other": 1,
+   "reason_none": 0
+  },
+  {
+   "firm": "INTERNATIONAL MEDICATION SYSTEMS",
+   "listed": 6,
+   "unavailable": 2,
+   "unavailable_only": 0,
+   "reason_firm": 0,
+   "reason_market": 2,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "MEITHEAL",
+   "listed": 6,
+   "unavailable": 1,
+   "unavailable_only": 0,
+   "reason_firm": 1,
+   "reason_market": 0,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "MYLAN INSTITUTIONAL",
+   "listed": 6,
+   "unavailable": 1,
+   "unavailable_only": 1,
+   "reason_firm": 0,
+   "reason_market": 1,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "SOMERSET",
+   "listed": 6,
+   "unavailable": 0,
+   "unavailable_only": 0,
+   "reason_firm": 0,
+   "reason_market": 0,
+   "reason_other": 0,
+   "reason_none": 0
+  },
+  {
+   "firm": "SUN",
+   "listed": 5,
+   "unavailable": 4,
+   "unavailable_only": 3,
+   "reason_firm": 2,
+   "reason_market": 0,
+   "reason_other": 2,
+   "reason_none": 0
+  },
+  {
+   "firm": "ICU",
+   "listed": 5,
+   "unavailable": 3,
+   "unavailable_only": 3,
+   "reason_firm": 2,
+   "reason_market": 1,
+   "reason_other": 0,
+   "reason_none": 0
+  }
+ ],
+ "n_marketers": 92,
+ "n_cells_marketer": 296,
+ "firm_table_top5_market_majority": [
+  "HIKMA",
+  "EUGIA"
+ ],
+ "firm_table_top5_firm_majority": [
+  "FRESENIUS KABI"
+ ],
+ "firm_table_top5_other_majority": [
+  "HOSPIRA",
+  "BAXTER"
+ ],
+ "firm_table_top5_market_majority_company": [
+  "HIKMA",
+  "EUGIA"
+ ],
+ "firm_table_top5_firm_majority_company": [
+  "FRESENIUS KABI"
+ ],
+ "firm_table_top5_other_majority_company": [
+  "HOSPIRA",
+  "BAXTER"
+ ],
+ "co_unavailability_unavailable_only": {
+  "same_firm": {
+   "p_second_given_first": 0.5434380776340111,
+   "p_second": 0.5269480519480519,
+   "n_ordered_pairs_first_unavailable": 1623,
+   "n_ordered_pairs": 3080
+  },
+  "same_drug": {
+   "p_second_given_first": 0.4249084249084249,
+   "p_second": 0.36351531291611183,
+   "n_ordered_pairs_first_unavailable": 546,
+   "n_ordered_pairs": 1502
+  },
+  "unrelated": {
+   "p_second_given_first": 0.38718550821871855,
+   "p_second": 0.39332365747460085,
+   "n_ordered_pairs_first_unavailable": 29810,
+   "n_ordered_pairs": 75790
+  },
+  "cell_rate": 0.397887323943662
+ },
+ "co_unavailability_injectable": {
+  "same_firm": {
+   "p_second_given_first": 0.6536473291211947,
+   "p_second": 0.6400735294117647,
+   "n_ordered_pairs_first_unavailable": 1741,
+   "n_ordered_pairs": 2720
+  },
+  "same_drug": {
+   "p_second_given_first": 0.5313092979127134,
+   "p_second": 0.5116504854368932,
+   "n_ordered_pairs_first_unavailable": 527,
+   "n_ordered_pairs": 1030
+  },
+  "unrelated": {
+   "p_second_given_first": 0.5620689655172414,
+   "p_second": 0.5666975213411498,
+   "n_ordered_pairs_first_unavailable": 22040,
+   "n_ordered_pairs": 38892
+  },
+  "cell_rate": 0.5700483091787439
+ },
+ "limited_notes": {
+  "n": 129,
+  "allocation": 26,
+  "date": 51,
+  "limited_supply": 24,
+  "blank": 0
+ },
+ "stale_notes": {
+  "n": 34,
+  "snapshot": "2026-10-06"
+ },
+ "ndc_duplicates": {
+  "across_companies_ndcs": 3,
+  "across_companies_presentations": 6,
+  "within_company_ndcs": 4,
+  "within_company_presentations": 8
+ },
+ "discontinued": {
+  "presentations": 55,
+  "by_reason": 50,
+  "by_note_only": 5,
+  "tbd_records": 35,
+  "tbd_firms": 11,
+  "tbd_drugs": 11,
+  "presentations_unavailable": 55,
+  "cells_only_via_discontinued": 18,
+  "cells_all_discontinued": 14,
+  "cells_unavailable_nodisc": 133
+ },
+ "marketer_notes": {
+  "n": 33,
+  "n_reporting_companies": 8,
+  "n_labelers": 10,
+  "top_labeler": "Meitheal Pharmaceuticals Inc.",
+  "top_n": 5,
+  "top_reporters": [
+   "Kindos Pharmaceuticals Co. Ltd."
+  ],
+  "top_labeler_own_unavailable": 0,
+  "top_labeler_unit": "MEITHEAL",
+  "n_labelers_with_no_unavailable_own_cell": 1,
+  "n_labelers_listed_as_reporter": 6,
+  "top_labeler_unit_cells": 5,
+  "top_labeler_unit_unavailable_cells": 0
+ },
+ "ingredient_families": {
+  "families_with_multiple_names": 6,
+  "names_in_such_families": 14,
+  "same_firm_pairs": 1540,
+  "same_firm_pairs_within_family": 12,
+  "firms_with_within_family_pairs": 6,
+  "families": {
+   "dextrose": [
+    "Dextrose Monohydrate 10% Injection",
+    "Dextrose Monohydrate 5% Injection",
+    "Dextrose Monohydrate 50% Injection",
+    "Dextrose Monohydrate 70% Injection"
+   ],
+   "furosemide": [
+    "Furosemide Injection",
+    "Furosemide Oral Solution"
+   ],
+   "lisdexamfetamine": [
+    "Lisdexamfetamine Dimesylate Capsule",
+    "Lisdexamfetamine Dimesylate Tablet, Chewable"
+   ],
+   "methylphenidate": [
+    "Methylphenidate Film, Extended Release",
+    "Methylphenidate Hydrochloride Tablet, Extended Release"
+   ],
+   "rifampin": [
+    "Rifampin Capsule",
+    "Rifampin Injection"
+   ],
+   "water": [
+    "Sterile Water Injection",
+    "Sterile Water Irrigant"
+   ]
+  }
+ },
+ "per_manufacturer_notes": {
+  "n": 48,
+  "n_other_or_blank_reason": 48,
+  "wholesaler_unavailable": 55
+ },
+ "firms_no_recall_event_5y": 28,
+ "carboplatin": {
+  "n_firms": 8,
+  "n_posting_dates": 1,
+  "posting_dates": [
+   "2023-04-28"
+  ]
+ },
+ "sharing_cov_boot": {
+  "n_boot": 2000,
+  "cov_firm_lo": -0.01842790468643695,
+  "cov_firm_hi": 0.09298217474709934,
+  "cov_drug_lo": -0.0491167998245467,
+  "cov_drug_hi": 0.07066667146522984,
+  "cov_none_lo": -0.010427512323638439,
+  "cov_none_hi": -0.0018617350670530716,
+  "excess_firm_lo": -0.014695384319453336,
+  "excess_firm_hi": 0.1009630916151365,
+  "excess_drug_lo": -0.04662030369786745,
+  "excess_drug_hi": 0.0772463606928123,
+  "p_excess_drug_le_0": 0.46,
+  "p_firm_gt_drug": 0.704
+ },
+ "perm_cov_firm": {
+  "observed": 0.023571486537663885,
+  "null_mean": -0.002032217504772554,
+  "null_q95": 0.009057013334810396,
+  "p_value": 0.0029985007496251873
+ },
+ "perm_cov_drug": {
+  "observed": 0.0072541478121745185,
+  "null_mean": -0.008875093012266131,
+  "null_q95": 0.003762090273868791,
+  "p_value": 0.02448775612193903
+ },
+ "cov_excl_top3": {
+  "firms": [
+   "FRESENIUS KABI",
+   "HIKMA",
+   "HOSPIRA"
+  ],
+  "cov_shared_firm": 0.03684527363184081,
+  "n_pairs_firm": 402
+ },
+ "unavailable_without_reason": 1,
+ "carboplatin_reasons": "discontinuation (3 firms); demand increase (3 firms); Other (2 firms); good manufacturing practice (1 firm); shipping delay (1 firm)",
+ "carboplatin_firms_unavailable": 7,
+ "carboplatin_gmp_firms": [
+  "ACCORD"
+ ],
+ "carboplatin_demand_firms": 3,
+ "drugs_2plus_unavail_firms": 39,
+ "drugs_mixed_reason_types": 34,
+ "presentations_posted_2012_01_01": 23,
+ "available_with_reason": 11,
+ "available_related_info": {
+  "blank": 487,
+  "wholesalers": 125,
+  "allocation": 1,
+  "n": 741,
+  "other": 128
+ },
+ "cells_changed_by_allocation": 1,
+ "labeler_codes_multi_company": 18,
+ "companies_multi_labeler": 21,
+ "median_apps_in_market": 4.0,
+ "median_labelers_in_market": 6.0,
+ "recall_pre_share_cells": 0.721830985915493,
+ "drug_share_hist": {
+  "all_available": 3,
+  "partial": 48,
+  "all_unavailable": 9
+ },
+ "drug_homogeneity_chi2": {
+  "chi2": 63.6570808354628,
+  "dof": 59,
+  "p": 0.3159836616940745
+ },
+ "firm_homogeneity_chi2": {
+  "chi2": 66.25717282717284,
+  "dof": 39,
+  "p": 0.004162274869912403
+ },
+ "unavailable_by_injectable": {
+  "0": {
+   "rate": 0.42857142857142855,
+   "n": 77
+  },
+  "1": {
+   "rate": 0.5700483091787439,
+   "n": 207
+  }
+ },
+ "unavailable_by_controlled": {
+  "0": {
+   "rate": 0.5416666666666666,
+   "n": 216
+  },
+  "1": {
+   "rate": 0.5,
+   "n": 68
+  }
+ },
+ "unavailable_by_recall": {
+  "False": {
+   "rate": 0.28205128205128205,
+   "n": 39
+  },
+  "True": {
+   "rate": 0.5714285714285714,
+   "n": 245
+  }
+ },
+ "posting_spread": {
+  "n_drugs": 60,
+  "share_zero": 0.7666666666666667,
+  "median_days_nonzero": 274.0,
+  "n_nonzero": 14
+ },
+ "posting_year_counts": {
+  "2012": 76,
+  "2015": 6,
+  "2016": 27,
+  "2017": 94,
+  "2018": 176,
+  "2019": 20,
+  "2020": 144,
+  "2021": 52,
+  "2022": 168,
+  "2023": 342,
+  "2024": 11,
+  "2025": 11,
+  "2026": 14
+ },
+ "first_posting_min": "2012-01-01",
+ "first_posting_max": "2026-08-27",
+ "share_presentations_posted_before_2021": 0.4758983347940403,
+ "median_applications_in_market": 4.0,
+ "median_firms_listed": 3.0
+}

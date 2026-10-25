@@ -1,0 +1,121 @@
+{
+ "no_schedule2": {
+  "rate": 0.5281385281385281,
+  "n_cells": 231,
+  "n_unavailable": 122,
+  "disp_firm_ratio": 1.4178586422170638,
+  "perm_firm_p": 0.009549522523873807,
+  "disp_drug_ratio": 0.8750175381201153,
+  "perm_drug_p": 0.5460726963651817,
+  "cov_firm": 0.023007403552066652,
+  "cov_drug": 0.010742474216500193,
+  "cov_none": -0.0024045705042617014,
+  "perm_cov_firm_p": 0.0014992503748125937,
+  "perm_cov_drug_p": 0.019490254872563718,
+  "permutable_cells_firm_test": 189,
+  "singleton_strata_firm_test": 42,
+  "permutable_cells_drug_test": 169,
+  "singleton_strata_drug_test": 62,
+  "perm_firm_p_size": 0.00279986000699965,
+  "perm_drug_p_size": 0.6094695265236738,
+  "perm_cov_firm_p_size": 0.005497251374312844,
+  "perm_cov_drug_p_size": 0.03548225887056472,
+  "co_same_firm": 0.6308518802762855,
+  "co_same_drug": 0.49454545454545457,
+  "co_unrelated": 0.5215400465524478,
+  "n_drugs_dropped": 11,
+  "n_firms": 75
+ },
+ "unit_group": {
+  "rate": 0.5316901408450704,
+  "n_cells": 284,
+  "n_unavailable": 151,
+  "disp_firm_ratio": 1.2888903019023852,
+  "perm_firm_p": 0.03959802009899505,
+  "disp_drug_ratio": 0.9770312893410409,
+  "perm_drug_p": 0.3243837808109595,
+  "cov_firm": 0.02631378509492858,
+  "cov_drug": 0.0072541478121745185,
+  "cov_none": -0.0022690987859059603,
+  "perm_cov_firm_p": 0.0004997501249375312,
+  "perm_cov_drug_p": 0.02848575712143928,
+  "permutable_cells_firm_test": 236,
+  "singleton_strata_firm_test": 48,
+  "permutable_cells_drug_test": 219,
+  "singleton_strata_drug_test": 65,
+  "perm_firm_p_size": 0.025498725063746813,
+  "perm_drug_p_size": 0.2981350932453377,
+  "perm_cov_firm_p_size": 0.0014992503748125937,
+  "perm_cov_drug_p_size": 0.041979010494752625,
+  "co_same_firm": 0.6629986244841816,
+  "co_same_drug": 0.5020352781546812,
+  "co_unrelated": 0.5232701243250032,
+  "n_firms": 85
+ },
+ "unlisted_existing_firms": {
+  "rate": 0.4518950437317784,
+  "n_cells": 343,
+  "n_unavailable": 155,
+  "disp_firm_ratio": 1.3794802127875814,
+  "perm_firm_p": 0.004199790010499475,
+  "disp_drug_ratio": 1.1996115295126684,
+  "perm_drug_p": 0.12064396780160992,
+  "cov_firm": 0.02639226963195943,
+  "cov_drug": 0.01091749048585728,
+  "cov_none": -0.0020188699960275265,
+  "perm_cov_firm_p": 0.0004997501249375312,
+  "perm_cov_drug_p": 0.054972513743128434,
+  "permutable_cells_firm_test": 296,
+  "singleton_strata_firm_test": 47,
+  "permutable_cells_drug_test": 268,
+  "singleton_strata_drug_test": 75,
+  "perm_firm_p_size": 0.011899405029748513,
+  "perm_drug_p_size": 0.11339433028348582,
+  "perm_cov_firm_p_size": 0.0024987506246876563,
+  "perm_cov_drug_p_size": 0.05347326336831584,
+  "co_same_firm": 0.5695595290013084,
+  "co_same_drug": 0.42024202420242024,
+  "co_unrelated": 0.44535014455509153,
+  "n_added_cells": 47
+ },
+ "unlisted_imputed": {
+  "perm_firm_p_size": {
+   "median": 0.022923853807309637,
+   "lo": 0.004449777511124443,
+   "hi": 0.15794210289485525
+  },
+  "perm_cov_firm_p_size": {
+   "median": 0.008995502248875561,
+   "lo": 0.0004997501249375312,
+   "hi": 0.04247876061969016
+  },
+  "perm_drug_p_size": {
+   "median": 0.0037248137593120347,
+   "lo": 0.0012499375031248437,
+   "hi": 0.03464826758662067
+  },
+  "perm_cov_drug_p_size": {
+   "median": 0.0004997501249375312,
+   "lo": 0.0004997501249375312,
+   "hi": 0.005497251374312844
+  },
+  "cov_firm": {
+   "median": 0.01750340960430323,
+   "lo": 0.010041893851295268,
+   "hi": 0.024819205344458938
+  },
+  "cov_drug": {
+   "median": 0.02965080150743206,
+   "lo": 0.018238753949235596,
+   "hi": 0.03875778841219114
+  },
+  "n_imputations": 20,
+  "n_added_cells": 119
+ },
+ "co_same_firm_firm_weighted": 0.42169061302681987,
+ "co_firm_weighted_n_firms": 32,
+ "co_firm_weighted_null_mean": 0.3980078248646969,
+ "co_firm_weighted_p": 0.3098450774612694,
+ "multi_firm_drugs": 60,
+ "multi_firm_drugs_some_available": 51
+}

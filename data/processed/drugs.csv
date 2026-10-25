@@ -1,0 +1,70 @@
+drug,n_firms_listed,n_cells_unavailable,n_presentations,injectable,controlled,n_firms_in_market,first_approval_year,first_posting,share_firms_unavailable
+Amino Acid Injection,3,2,16,1,0,1.0,,2020-12-08,0.6666666666666666
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",12,7,73,0,1,17.0,,2022-10-12,0.5833333333333334
+Atropine Sulfate Injection,8,2,17,1,0,13.0,2001.0,2012-01-01,0.25
+Azacitidine Injection,9,4,9,1,0,20.0,,2020-12-18,0.4444444444444444
+Bacitracin Ophthalmic Ointment,1,1,1,0,0,,,2025-03-03,1.0
+Bupivacaine Hydrochloride Injection,8,4,57,1,0,12.0,1984.0,2018-02-20,0.5
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",2,2,20,1,0,4.0,,2018-02-20,1.0
+Carboplatin Injection,8,7,29,1,0,11.0,1989.0,2023-04-28,0.875
+"Cefotaxime Sodium Powder, for Solution",2,1,6,1,0,2.0,1983.0,2015-02-17,0.5
+Clindamycin Phosphate Injection,5,3,17,1,0,5.0,1987.0,2023-03-21,0.6
+Clonazepam Tablet,6,1,40,0,1,36.0,1996.0,2023-03-10,0.16666666666666666
+Conivaptan Hydrochloride Injection,1,1,1,1,0,,,2022-03-14,1.0
+Cromolyn Sodium Concentrate,6,2,6,0,0,3.0,1982.0,2023-11-03,0.3333333333333333
+Desmopressin Acetate Spray,4,3,4,0,0,1.0,,2021-03-12,0.75
+Dexamethasone Sodium Phosphate Injection,6,1,19,1,0,20.0,1982.0,2019-02-08,0.16666666666666666
+Dexmedetomidine Hydrochloride Injection,19,6,56,1,0,28.0,1999.0,2020-04-10,0.3157894736842105
+Dextrose Monohydrate 10% Injection,4,1,13,1,0,13.0,,2022-03-01,0.25
+Dextrose Monohydrate 5% Injection,4,1,36,1,0,13.0,,2022-02-14,0.25
+Dextrose Monohydrate 50% Injection,2,1,3,1,0,13.0,,2022-01-13,0.5
+Dextrose Monohydrate 70% Injection,3,1,4,1,0,13.0,,2024-10-11,0.3333333333333333
+Dobutamine Hydrochloride Injection,3,1,10,1,0,5.0,1993.0,2017-11-06,0.3333333333333333
+Dopamine Hydrochloride Injection,3,2,11,1,0,7.0,1982.0,2017-11-06,0.6666666666666666
+Echothiophate Iodide Ophthalmic Solution,1,0,1,0,0,2.0,,2019-09-24,0.0
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",2,2,22,1,0,7.0,,2012-02-22,1.0
+Etomidate Injection,8,2,18,1,0,10.0,1982.0,2022-10-05,0.25
+Fentanyl Citrate Injection,3,3,19,1,1,5.0,1984.0,2012-01-01,1.0
+Flurazepam Hydrochloride Capsule,2,1,6,0,1,1.0,1985.0,2022-08-03,0.5
+Furosemide Injection,8,5,27,1,0,17.0,1982.0,2020-04-07,0.625
+Furosemide Oral Solution,1,1,3,0,0,3.0,1987.0,2026-03-31,1.0
+Heparin Sodium Injection,4,2,8,1,0,5.0,1982.0,2017-11-14,0.5
+Hydromorphone Hydrochloride Injection,5,5,26,1,1,5.0,1984.0,2017-10-31,1.0
+Hydroxocobalamin Injection,2,2,2,1,0,1.0,2006.0,2024-11-04,1.0
+Ifosfamide Injection,5,3,8,1,0,4.0,1988.0,2026-06-12,0.6
+Isocarboxazid Tablet,1,1,1,0,0,1.0,,2026-04-16,1.0
+Ketorolac Tromethamine Injection,8,6,25,1,0,27.0,1989.0,2018-03-23,0.75
+Lidocaine Hydrochloride Injection,10,6,65,1,0,15.0,1982.0,2012-02-22,0.6
+Liraglutide Injection,4,1,9,1,0,11.0,,2023-07-18,0.25
+Lisdexamfetamine Dimesylate Capsule,13,6,90,0,1,19.0,2007.0,2023-07-14,0.46153846153846156
+"Lisdexamfetamine Dimesylate Tablet, Chewable",3,0,18,0,1,7.0,2017.0,2023-07-14,0.0
+Lorazepam Injection,4,3,11,1,1,6.0,1994.0,2018-05-03,0.75
+Meperidine Hydrochloride Injection,2,0,6,1,1,2.0,1984.0,2025-05-30,0.0
+Methotrexate Sodium Injection,5,3,14,1,0,4.0,1982.0,2023-03-13,0.6
+"Methylphenidate Film, Extended Release",1,0,4,0,1,3.0,,2025-02-28,0.0
+"Methylphenidate Hydrochloride Tablet, Extended Release",6,4,34,0,1,29.0,1982.0,2023-07-26,0.6666666666666666
+Methylprednisolone Acetate Injection,5,5,23,1,0,7.0,1982.0,2021-12-15,1.0
+Metronidazole Injection,4,3,4,1,0,9.0,1982.0,2022-01-13,0.75
+Midazolam Hydrochloride Injection,7,4,27,1,1,18.0,1985.0,2020-04-02,0.5714285714285714
+Morphine Sulfate Injection,6,4,24,1,1,4.0,1984.0,2017-10-31,0.6666666666666666
+Penicillin G Benzathine Injection,2,1,4,1,0,2.0,,2023-04-26,0.5
+Pentostatin Injection,1,1,1,1,0,1.0,1991.0,2026-08-27,1.0
+Promethazine Hydrochloride Injection,2,2,10,1,0,7.0,1988.0,2023-11-21,1.0
+Propranolol Hydrochloride Injection,2,1,2,1,0,6.0,1986.0,2023-10-31,0.5
+Quinapril Hydrochloride Tablet,4,3,16,0,0,11.0,1991.0,2023-01-19,0.75
+Quinapril/Hydrochlorothiazide Tablet,2,1,6,0,0,4.0,,2023-01-19,0.5
+Remifentanil Hydrochloride Injection,3,2,9,1,1,4.0,1996.0,2022-06-28,0.6666666666666666
+Rifampin Capsule,2,1,9,0,0,10.0,1997.0,2021-12-22,0.5
+Rifampin Injection,3,3,3,1,0,3.0,1989.0,2021-02-17,1.0
+Riluzole Oral Suspension,1,1,4,0,0,1.0,,2024-01-26,1.0
+Rocuronium Bromide Injection,12,3,26,1,0,26.0,1994.0,2023-02-15,0.25
+Ropivacaine Hydrochloride Injection,6,4,49,1,0,18.0,,2018-03-23,0.6666666666666666
+Sodium Acetate Injection,5,2,15,1,0,3.0,,2016-02-03,0.4
+Sodium Bicarbonate Injection,5,2,11,1,0,20.0,1986.0,2017-03-01,0.4
+Sterile Water Injection,5,2,12,1,0,16.0,,2021-11-23,0.4
+Sterile Water Irrigant,3,2,9,0,0,3.0,,2023-04-28,0.6666666666666666
+"Streptozocin Powder, For Solution",2,1,2,0,0,,,2022-07-12,0.5
+Sufentanil Citrate Injection,2,1,4,1,1,1.0,1984.0,2022-05-03,0.5
+Technetium TC-99M Pyrophosphate Kit Injection,2,2,3,1,0,1.0,,2023-12-27,1.0
+Triamcinolone Hexacetonide Injection,1,0,1,1,0,0.0,,2021-05-04,0.0
+Valproate Sodium Injection,2,0,2,1,0,3.0,1996.0,2020-12-30,0.0

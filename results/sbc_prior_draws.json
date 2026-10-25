@@ -1,0 +1,245 @@
+{
+ "n_prior": 400000,
+ "batches": [
+  {
+   "seed": 20261017,
+   "n": 200,
+   "quantities": {
+    "eps": {
+     "prior_top_tenth": 14,
+     "prior_top_tail": 0.9434379568629117,
+     "sampler_top_tenth": 18,
+     "corr_rank_prior_quantile": 0.3010951621873051
+    },
+    "a": {
+     "prior_top_tenth": 22,
+     "prior_top_tail": 0.3516477782707445,
+     "sampler_top_tenth": 18,
+     "corr_rank_prior_quantile": 0.752378703815591
+    },
+    "b": {
+     "prior_top_tenth": 22,
+     "prior_top_tail": 0.3516477782707445,
+     "sampler_top_tenth": 26,
+     "corr_rank_prior_quantile": 0.6709765645879281
+    },
+    "phi": {
+     "prior_top_tenth": 22,
+     "prior_top_tail": 0.3516477782707445,
+     "sampler_top_tenth": 21,
+     "corr_rank_prior_quantile": 0.8514022733581867
+    },
+    "mu": {
+     "prior_top_tenth": 21,
+     "prior_top_tail": 0.4408252177357965,
+     "sampler_top_tenth": 20,
+     "corr_rank_prior_quantile": 0.86864073665494
+    },
+    "af_firm": {
+     "prior_top_tenth": 15,
+     "prior_top_tail": 0.9070538205008959,
+     "sampler_top_tenth": 17,
+     "corr_rank_prior_quantile": 0.5907769536238885
+    },
+    "af_drug": {
+     "prior_top_tenth": 36,
+     "prior_top_tail": 0.00038774226025952465,
+     "sampler_top_tenth": 40,
+     "corr_rank_prior_quantile": 0.6650677659630171
+    },
+    "phi_a": {
+     "prior_top_tenth": 21,
+     "prior_top_tail": 0.4408252177357965,
+     "sampler_top_tenth": 19,
+     "corr_rank_prior_quantile": 0.7324324007868693
+    },
+    "mu_b": {
+     "prior_top_tenth": 26,
+     "prior_top_tail": 0.10045728651287243,
+     "sampler_top_tenth": 41,
+     "corr_rank_prior_quantile": 0.6991923475355211
+    }
+   }
+  },
+  {
+   "seed": 20266017,
+   "n": 200,
+   "quantities": {
+    "eps": {
+     "prior_top_tenth": 24,
+     "prior_top_tail": 0.20170235200972667,
+     "sampler_top_tenth": 20,
+     "corr_rank_prior_quantile": 0.32924026469699785
+    },
+    "a": {
+     "prior_top_tenth": 18,
+     "prior_top_tail": 0.7150714262292266,
+     "sampler_top_tenth": 23,
+     "corr_rank_prior_quantile": 0.7094499259305123
+    },
+    "b": {
+     "prior_top_tenth": 26,
+     "prior_top_tail": 0.10045728651287243,
+     "sampler_top_tenth": 26,
+     "corr_rank_prior_quantile": 0.738214172922143
+    },
+    "phi": {
+     "prior_top_tenth": 19,
+     "prior_top_tail": 0.6275805129249022,
+     "sampler_top_tenth": 19,
+     "corr_rank_prior_quantile": 0.8788296833726974
+    },
+    "mu": {
+     "prior_top_tenth": 23,
+     "prior_top_tail": 0.27102776986547095,
+     "sampler_top_tenth": 22,
+     "corr_rank_prior_quantile": 0.9061017918040127
+    },
+    "af_firm": {
+     "prior_top_tenth": 15,
+     "prior_top_tail": 0.9070538205008959,
+     "sampler_top_tenth": 25,
+     "corr_rank_prior_quantile": 0.7107771180846163
+    },
+    "af_drug": {
+     "prior_top_tenth": 16,
+     "prior_top_tail": 0.8569245659576742,
+     "sampler_top_tenth": 25,
+     "corr_rank_prior_quantile": 0.63243135459295
+    },
+    "phi_a": {
+     "prior_top_tenth": 21,
+     "prior_top_tail": 0.4408252177357965,
+     "sampler_top_tenth": 23,
+     "corr_rank_prior_quantile": 0.7712125427224577
+    },
+    "mu_b": {
+     "prior_top_tenth": 24,
+     "prior_top_tail": 0.20170235200972667,
+     "sampler_top_tenth": 25,
+     "corr_rank_prior_quantile": 0.7592155369791853
+    }
+   }
+  },
+  {
+   "seed": 20267017,
+   "n": 200,
+   "quantities": {
+    "eps": {
+     "prior_top_tenth": 16,
+     "prior_top_tail": 0.8569245659576742,
+     "sampler_top_tenth": 20,
+     "corr_rank_prior_quantile": 0.2988646916468508
+    },
+    "a": {
+     "prior_top_tenth": 21,
+     "prior_top_tail": 0.4408252177357965,
+     "sampler_top_tenth": 20,
+     "corr_rank_prior_quantile": 0.5937129589842135
+    },
+    "b": {
+     "prior_top_tenth": 30,
+     "prior_top_tail": 0.016326565931766488,
+     "sampler_top_tenth": 25,
+     "corr_rank_prior_quantile": 0.7831258351799061
+    },
+    "phi": {
+     "prior_top_tenth": 24,
+     "prior_top_tail": 0.20170235200972667,
+     "sampler_top_tenth": 21,
+     "corr_rank_prior_quantile": 0.8438369808084251
+    },
+    "mu": {
+     "prior_top_tenth": 21,
+     "prior_top_tail": 0.4408252177357965,
+     "sampler_top_tenth": 18,
+     "corr_rank_prior_quantile": 0.8705829599749595
+    },
+    "af_firm": {
+     "prior_top_tenth": 18,
+     "prior_top_tail": 0.7150714262292266,
+     "sampler_top_tenth": 24,
+     "corr_rank_prior_quantile": 0.6800314566073783
+    },
+    "af_drug": {
+     "prior_top_tenth": 14,
+     "prior_top_tail": 0.9434379568629117,
+     "sampler_top_tenth": 17,
+     "corr_rank_prior_quantile": 0.5877994746843619
+    },
+    "phi_a": {
+     "prior_top_tenth": 24,
+     "prior_top_tail": 0.20170235200972667,
+     "sampler_top_tenth": 29,
+     "corr_rank_prior_quantile": 0.6621399072529162
+    },
+    "mu_b": {
+     "prior_top_tenth": 19,
+     "prior_top_tail": 0.6275805129249022,
+     "sampler_top_tenth": 18,
+     "corr_rank_prior_quantile": 0.7596832440858313
+    }
+   }
+  },
+  {
+   "seed": 20268017,
+   "n": 200,
+   "quantities": {
+    "eps": {
+     "prior_top_tenth": 17,
+     "prior_top_tail": 0.792522398662563,
+     "sampler_top_tenth": 18,
+     "corr_rank_prior_quantile": 0.415977780212491
+    },
+    "a": {
+     "prior_top_tenth": 21,
+     "prior_top_tail": 0.4408252177357965,
+     "sampler_top_tenth": 25,
+     "corr_rank_prior_quantile": 0.6227700850314177
+    },
+    "b": {
+     "prior_top_tenth": 20,
+     "prior_top_tail": 0.5344615291741008,
+     "sampler_top_tenth": 28,
+     "corr_rank_prior_quantile": 0.6222715470513002
+    },
+    "phi": {
+     "prior_top_tenth": 12,
+     "prior_top_tail": 0.9832104668296958,
+     "sampler_top_tenth": 14,
+     "corr_rank_prior_quantile": 0.7937087254369917
+    },
+    "mu": {
+     "prior_top_tenth": 19,
+     "prior_top_tail": 0.6275805129249022,
+     "sampler_top_tenth": 16,
+     "corr_rank_prior_quantile": 0.8585805067647035
+    },
+    "af_firm": {
+     "prior_top_tenth": 22,
+     "prior_top_tail": 0.3516477782707445,
+     "sampler_top_tenth": 15,
+     "corr_rank_prior_quantile": 0.6149928608449176
+    },
+    "af_drug": {
+     "prior_top_tenth": 22,
+     "prior_top_tail": 0.3516477782707445,
+     "sampler_top_tenth": 18,
+     "corr_rank_prior_quantile": 0.6655525960863682
+    },
+    "phi_a": {
+     "prior_top_tenth": 16,
+     "prior_top_tail": 0.8569245659576742,
+     "sampler_top_tenth": 13,
+     "corr_rank_prior_quantile": 0.69771144350146
+    },
+    "mu_b": {
+     "prior_top_tenth": 17,
+     "prior_top_tail": 0.792522398662563,
+     "sampler_top_tenth": 15,
+     "corr_rank_prior_quantile": 0.7031381551154271
+    }
+   }
+  }
+ ]
+}

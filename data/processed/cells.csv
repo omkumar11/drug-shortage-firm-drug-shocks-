@@ -1,0 +1,307 @@
+firm,drug,firm_name,company_name,n_presentations,n_unavailable,unavailable,first_posting,reason,injectable,controlled,n_firms_in_market,n_apps_in_market,first_approval_year,n_anda_holders,firm_n_markets,firm_recalls_5y,firm_recall_events_5y,firm_recall_events_pre_posting,in_ndc_directory,share_unavailable
+0009,Clindamycin Phosphate Injection,Pharmacia & Upjohn Company LLC,Pfizer Inc.,3,1,1,2023-03-21,Demand increase for the drug,1,0,5.0,2.0,1987.0,6.0,35,3,2,2,1,0.3333333333333333
+0009,Methylprednisolone Acetate Injection,Pharmacia & Upjohn Company LLC,Pfizer Inc.,13,7,1,2021-12-15,Other,1,0,7.0,4.0,1982.0,9.0,35,3,2,0,1,0.5384615384615384
+0037,Cromolyn Sodium Concentrate,Viatris Specialty LLC,"Mylan Specialty, a Viatris Company",1,0,0,2023-11-03,,0,0,1.0,1.0,,0.0,11,2,2,4,1,0.0
+0053,Desmopressin Acetate Spray,CSL Behring,Ferring,1,1,1,2021-03-12,Requirements related to complying with good manufacturing practices,0,0,,,,,1,0,0,1,0,1.0
+0054,Furosemide Oral Solution,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",3,1,1,2026-03-31,Shortage of an inactive ingredient component,0,0,3.0,2.0,1987.0,1.0,93,1,1,0,1,0.3333333333333333
+0054,Lisdexamfetamine Dimesylate Capsule,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",7,7,1,2023-07-14,Shortage of an active ingredient,0,1,19.0,16.0,2007.0,16.0,93,1,1,1,1,1.0
+0068,Rifampin Injection,Sanofi-Aventis U.S. LLC,Sanofi-Aventis U.S. LLC,1,1,1,2021-02-17,Discontinuation of the manufacture of the drug,1,0,,,,,0,0,0,0,0,1.0
+0093,Clonazepam Tablet,"Teva Pharmaceuticals USA, Inc.","Teva Pharmaceuticals USA, Inc.",6,1,1,2023-03-10,Other,0,1,36.0,11.0,1996.0,11.0,138,13,9,13,1,0.16666666666666666
+0143,Azacitidine Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",1,0,0,2020-12-18,,1,0,20.0,13.0,,0.0,156,3,3,5,1,0.0
+0143,"Cefotaxime Sodium Powder, for Solution",Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",4,4,1,2015-02-17,Demand increase for the drug,1,0,2.0,2.0,1983.0,0.0,156,3,3,14,1,1.0
+0143,Dexmedetomidine Hydrochloride Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",1,1,1,2020-04-10,Demand increase for the drug,1,0,28.0,24.0,1999.0,22.0,156,3,3,2,1,1.0
+0143,Dopamine Hydrochloride Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",2,2,1,2017-11-06,Demand increase for the drug,1,0,7.0,4.0,1982.0,1.0,156,3,3,14,1,1.0
+0143,Etomidate Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",4,0,0,2022-10-05,,1,0,10.0,5.0,1982.0,6.0,156,3,3,5,1,0.0
+0143,Ifosfamide Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",2,2,1,2026-06-12,Demand increase for the drug,1,0,4.0,3.0,1988.0,3.0,156,3,3,3,1,1.0
+0143,Lidocaine Hydrochloride Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",4,0,0,2018-06-13,,1,0,15.0,8.0,1982.0,15.0,156,3,3,6,1,0.0
+0143,Liraglutide Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",2,0,0,2023-07-18,,1,0,11.0,10.0,,0.0,156,3,3,6,1,0.0
+0143,Methotrexate Sodium Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",2,2,1,2023-03-13,Demand increase for the drug,1,0,2.0,4.0,2013.0,0.0,156,3,3,6,1,1.0
+0143,Propranolol Hydrochloride Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",1,1,1,2023-10-31,Shortage of an active ingredient,1,0,6.0,2.0,1986.0,2.0,156,3,3,5,1,1.0
+0143,Remifentanil Hydrochloride Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",3,2,1,2022-06-28,Demand increase for the drug,1,1,4.0,3.0,1996.0,3.0,156,3,3,5,1,0.6666666666666666
+0143,Rocuronium Bromide Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",2,0,0,2023-02-15,,1,0,26.0,18.0,1994.0,18.0,156,3,3,6,1,0.0
+0143,Valproate Sodium Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",1,0,0,2020-12-30,,1,0,3.0,3.0,1996.0,3.0,156,3,3,5,1,0.0
+0169,Liraglutide Injection,Novo Nordisk,"Novo Nordisk, Inc.",3,3,1,2023-07-18,Delay in shipping of the drug,1,0,11.0,10.0,,0.0,17,3,2,2,1,1.0
+0185,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",Sandoz Inc,Sandoz Inc.,4,0,0,2022-10-12,,0,1,17.0,13.0,,,7,2,2,2,1,0.0
+0264,Amino Acid Injection,B. Braun Medical Inc.,B. Braun Medical Inc.,3,0,0,2020-12-08,,0,0,1.0,1.0,,,52,27,19,4,1,0.0
+0264,Dextrose Monohydrate 10% Injection,B. Braun Medical Inc.,B. Braun Medical Inc.,3,0,0,2022-03-01,,0,0,2.0,2.0,,0.0,52,27,19,5,1,0.0
+0264,Dextrose Monohydrate 5% Injection,B. Braun Medical Inc.,B. Braun Medical Inc.,5,0,0,2022-02-14,,1,0,13.0,18.0,,0.0,52,27,19,4,1,0.0
+0264,Dextrose Monohydrate 70% Injection,B. Braun Medical Inc.,B. Braun Medical Inc.,1,0,0,2024-10-11,,0,0,1.0,1.0,,0.0,52,27,19,11,1,0.0
+0264,Heparin Sodium Injection,B. Braun Medical Inc.,B. Braun Medical Inc.,2,2,1,2017-11-14,Other,1,0,5.0,6.0,1982.0,10.0,52,27,19,3,1,1.0
+0264,Lidocaine Hydrochloride Injection,B. Braun Medical Inc.,B. Braun Medical Inc.,3,0,0,2017-10-25,,1,0,2.0,1.0,,,52,27,19,3,1,0.0
+0264,Sterile Water Irrigant,B. Braun Medical Inc.,B. Braun Medical Inc.,2,0,0,2023-04-28,,0,0,3.0,4.0,,0.0,52,27,19,7,1,0.0
+0338,Amino Acid Injection,Baxter Healthcare Corporation,Baxter Healthcare,9,1,1,2020-12-08,Shortage of an inactive ingredient component,1,0,1.0,2.0,,,72,24,8,13,1,0.1111111111111111
+0338,Clindamycin Phosphate Injection,Baxter Healthcare Corporation,Baxter Healthcare,6,2,1,2023-03-21,Demand increase for the drug,1,0,3.0,3.0,1987.0,6.0,72,24,8,5,1,0.3333333333333333
+0338,Dexmedetomidine Hydrochloride Injection,Baxter Healthcare Corporation,Baxter Healthcare,2,1,1,2020-04-10,Other,1,0,28.0,24.0,1999.0,22.0,72,24,8,17,1,0.5
+0338,Dextrose Monohydrate 10% Injection,Baxter Healthcare Corporation,Baxter Healthcare,3,0,0,2022-03-01,,1,0,13.0,18.0,,0.0,72,24,8,8,1,0.0
+0338,Dextrose Monohydrate 5% Injection,Baxter Healthcare Corporation,Baxter Healthcare,16,2,1,2022-02-14,Demand increase for the drug,1,0,13.0,18.0,,0.0,72,24,8,8,1,0.125
+0338,Dextrose Monohydrate 70% Injection,Baxter Healthcare Corporation,Baxter Healthcare,1,1,1,2024-10-11,Other,1,0,13.0,18.0,,0.0,72,24,8,5,1,1.0
+0338,Dobutamine Hydrochloride Injection,Baxter Healthcare Corporation,Baxter Healthcare,3,0,0,2017-11-06,,1,0,5.0,5.0,1993.0,3.0,72,24,8,34,1,0.0
+0338,Dopamine Hydrochloride Injection,Baxter Healthcare Corporation,Baxter Healthcare,4,0,0,2017-11-06,,1,0,7.0,4.0,1982.0,1.0,72,24,8,34,1,0.0
+0338,Heparin Sodium Injection,Baxter Healthcare Corporation,Baxter Healthcare,2,0,0,2017-11-14,,1,0,5.0,6.0,1982.0,10.0,72,24,8,34,1,0.0
+0338,Ifosfamide Injection,Baxter Healthcare Corporation,Baxter Healthcare,2,1,1,2026-06-12,Requirements related to complying with good manufacturing practices,1,0,4.0,3.0,1988.0,3.0,72,24,8,5,1,0.5
+0338,Ketorolac Tromethamine Injection,Baxter Healthcare Corporation,Baxter Healthcare,2,1,1,2018-06-06,Demand increase for the drug,1,0,27.0,14.0,1989.0,14.0,72,24,8,32,1,0.5
+0338,Lidocaine Hydrochloride Injection,Baxter Healthcare Corporation,Baxter Healthcare,2,0,0,2017-10-25,,1,0,10.0,5.0,1982.0,15.0,72,24,8,34,1,0.0
+0338,Metronidazole Injection,Baxter Healthcare Corporation,Baxter Healthcare,1,0,0,2022-01-13,,1,0,9.0,4.0,1982.0,3.0,72,24,8,8,1,0.0
+0338,Sterile Water Irrigant,Baxter Healthcare Corporation,Baxter Healthcare,3,1,1,2023-04-28,Other,0,0,3.0,4.0,,0.0,72,24,8,5,1,0.3333333333333333
+0378,Flurazepam Hydrochloride Capsule,Mylan Pharmaceuticals Inc.,"Rising Pharma Holdings, Inc.",2,2,1,2022-08-03,Regulatory delay,0,0,,,,,132,23,10,12,0,1.0
+0378,Lisdexamfetamine Dimesylate Capsule,Mylan Pharmaceuticals Inc.,"Mylan Pharmaceuticals Inc., a Viatris Company",7,0,0,2023-07-14,,0,1,19.0,16.0,2007.0,16.0,132,23,10,11,1,0.0
+0406,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",SpecGx LLC,SpecGx LLC,6,3,1,2022-10-12,Demand increase for the drug,0,1,17.0,13.0,,,32,3,2,1,1,0.5
+0406,Lisdexamfetamine Dimesylate Capsule,SpecGx LLC,SpecGx LLC,7,0,0,2023-07-14,,0,1,19.0,16.0,2007.0,16.0,32,3,2,1,1,0.0
+0409,Atropine Sulfate Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",2,1,1,2012-01-01,Other,1,0,13.0,7.0,,0.0,118,19,13,0,1,0.5
+0409,Bupivacaine Hydrochloride Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",20,2,1,2018-02-20,Demand increase for the drug,1,0,12.0,8.0,1984.0,10.0,118,19,13,81,1,0.1
+0409,"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection","Hospira, Inc.","Hospira, Inc., a Pfizer Company",12,6,1,2018-02-20,Other,1,0,4.0,4.0,,,118,19,13,81,1,0.5
+0409,Dexmedetomidine Hydrochloride Injection,"Hospira, Inc.",Pfizer Inc.,14,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,118,19,13,37,1,0.0
+0409,Dextrose Monohydrate 50% Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",2,1,1,2022-01-13,Other,1,0,13.0,18.0,,0.0,118,19,13,30,1,0.5
+0409,Dobutamine Hydrochloride Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",6,1,1,2017-11-06,Other,1,0,5.0,5.0,1993.0,3.0,118,19,13,87,1,0.16666666666666666
+0409,Dopamine Hydrochloride Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",5,1,1,2017-11-06,Other,1,0,7.0,4.0,1982.0,1.0,118,19,13,87,1,0.2
+0409,"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection","Hospira, Inc.","Hospira, Inc., a Pfizer Company",10,8,1,2012-02-22,Other,1,0,6.0,3.0,,,118,19,13,0,1,0.8
+0409,Etomidate Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",2,1,1,2022-10-05,Other,1,0,10.0,5.0,1982.0,6.0,118,19,13,25,1,0.5
+0409,Fentanyl Citrate Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",5,3,1,2012-01-01,Demand increase for the drug,1,1,5.0,4.0,1984.0,1.0,118,19,13,0,1,0.6
+0409,Furosemide Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",6,3,1,2020-04-07,Other,1,0,17.0,11.0,1982.0,14.0,118,19,13,37,1,0.5
+0409,Heparin Sodium Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",2,0,0,2017-11-14,,1,0,5.0,6.0,1982.0,10.0,118,19,13,87,1,0.0
+0409,Hydromorphone Hydrochloride Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",11,4,1,2017-10-31,Other,1,1,5.0,6.0,1984.0,3.0,118,19,13,87,1,0.36363636363636365
+0409,Ketorolac Tromethamine Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",3,3,1,2018-03-26,Other,1,0,27.0,14.0,1989.0,14.0,118,19,13,79,1,1.0
+0409,Lidocaine Hydrochloride Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",16,1,1,2012-02-22,Other,1,0,15.0,9.0,1982.0,15.0,118,19,13,0,1,0.0625
+0409,Lorazepam Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",1,1,1,2018-05-03,Demand increase for the drug,1,1,6.0,4.0,1994.0,4.0,118,19,13,75,1,1.0
+0409,Meperidine Hydrochloride Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",3,0,0,2025-05-30,,1,1,2.0,2.0,1984.0,1.0,118,19,13,15,1,0.0
+0409,Metronidazole Injection,"Hospira, Inc.",InfoRLife SA,1,1,1,2022-01-13,Other,1,0,9.0,4.0,1982.0,3.0,118,19,13,30,1,1.0
+0409,Midazolam Hydrochloride Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",8,6,1,2020-04-02,Demand increase for the drug,1,1,18.0,11.0,1985.0,7.0,118,19,13,38,1,0.75
+0409,Morphine Sulfate Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",8,4,1,2017-10-31,Other,1,1,4.0,4.0,1984.0,4.0,118,19,13,87,1,0.5
+0409,Pentostatin Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",1,1,1,2026-08-27,Other,1,0,1.0,1.0,1991.0,1.0,118,19,13,13,1,1.0
+0409,Rocuronium Bromide Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",4,0,0,2023-02-15,,1,0,26.0,18.0,1994.0,18.0,118,19,13,26,1,0.0
+0409,Sodium Acetate Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",6,1,1,2016-02-03,Other,1,0,3.0,3.0,,0.0,118,19,13,82,1,0.16666666666666666
+0409,Sodium Bicarbonate Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",4,3,1,2017-03-01,Other,1,0,20.0,13.0,,0.0,118,19,13,93,1,0.75
+0409,Sterile Water Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",5,0,0,2021-11-23,,1,0,16.0,6.0,,0.0,118,19,13,30,1,0.0
+0409,Sufentanil Citrate Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",1,0,0,2022-05-03,,1,1,1.0,1.0,1984.0,1.0,118,19,13,28,1,0.0
+0480,Liraglutide Injection,"Teva Pharmaceuticals, Inc.","Novo Nordisk, Inc.",2,0,0,2023-07-18,,1,0,11.0,10.0,,0.0,60,4,2,0,1,0.0
+0480,Lisdexamfetamine Dimesylate Capsule,"Teva Pharmaceuticals, Inc.","Teva Pharmaceuticals USA, Inc.",7,0,0,2023-07-14,,0,1,19.0,16.0,2007.0,16.0,60,4,2,0,1,0.0
+0487,Sterile Water Injection,Nephron Pharmaceuticals Corporation,Nephron Pharmaceuticals Corporation,1,1,1,2021-11-23,Other,1,0,16.0,6.0,,0.0,7,12,6,0,1,1.0
+0517,Atropine Sulfate Injection,"American Regent, Inc.","American Regent, Inc.",2,0,0,2012-01-01,,1,0,13.0,7.0,,0.0,32,15,5,1,1,0.0
+0527,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","Lannett Company, Inc.","Lannett Company, Inc.",7,0,0,2022-10-12,,0,1,17.0,13.0,,,54,6,6,3,1,0.0
+0527,Lisdexamfetamine Dimesylate Capsule,"Lannett Company, Inc.","Lannett Company, Inc.",7,0,0,2023-07-14,,0,1,19.0,16.0,2007.0,16.0,54,6,6,3,1,0.0
+0555,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","Teva Pharmaceuticals USA, Inc.","Teva Pharmaceuticals USA, Inc.",7,1,1,2022-10-12,Other,0,1,17.0,13.0,,,20,6,6,7,1,0.14285714285714285
+0574,Bacitracin Ophthalmic Ointment,Padagis US LLC,Padagis US LLC,1,1,1,2025-03-03,Discontinuation of the manufacture of the drug,0,0,,,,,31,2,2,3,0,1.0
+0574,"Methylphenidate Film, Extended Release",Padagis US LLC,"Noven Pharmaceuticals, Inc.",4,0,0,2025-02-28,,0,1,3.0,2.0,,0.0,31,2,2,3,1,0.0
+0591,Hydroxocobalamin Injection,"Actavis Pharma, Inc.","Teva Pharmaceuticals USA, Inc.",1,1,1,2024-11-04,Other,1,0,1.0,1.0,,0.0,83,16,11,16,1,1.0
+0641,Atropine Sulfate Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",1,0,0,2023-12-20,,1,0,8.0,3.0,,0.0,53,7,4,5,1,0.0
+0641,Dexamethasone Sodium Phosphate Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",3,0,0,2019-02-08,,1,0,20.0,12.0,1982.0,9.0,53,7,4,0,1,0.0
+0641,Fentanyl Citrate Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",8,3,1,2023-12-20,Other,1,1,5.0,4.0,1984.0,1.0,53,7,4,5,1,0.375
+0641,Hydromorphone Hydrochloride Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",2,1,1,2017-11-01,Demand increase for the drug,1,1,5.0,6.0,1984.0,3.0,53,7,4,0,1,0.5
+0641,Ketorolac Tromethamine Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",3,3,1,2018-06-06,Other,1,0,27.0,14.0,1989.0,14.0,53,7,4,0,1,1.0
+0641,Lorazepam Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",8,8,1,2018-05-03,Other,1,1,6.0,4.0,1994.0,4.0,53,7,4,0,1,1.0
+0641,Meperidine Hydrochloride Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",3,0,0,2025-05-30,,1,1,2.0,2.0,1984.0,1.0,53,7,4,5,1,0.0
+0641,Midazolam Hydrochloride Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",5,0,0,2020-04-02,,1,1,18.0,11.0,1985.0,7.0,53,7,4,1,1,0.0
+0641,Morphine Sulfate Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",7,3,1,2017-11-03,Demand increase for the drug,1,1,4.0,4.0,1984.0,4.0,53,7,4,0,1,0.42857142857142855
+0641,Promethazine Hydrochloride Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",8,6,1,2023-11-21,Other,1,0,7.0,2.0,1988.0,2.0,53,7,4,5,1,0.75
+0641,Sodium Acetate Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",2,0,0,2016-02-03,,1,0,3.0,3.0,,0.0,53,7,4,0,1,0.0
+0641,Sterile Water Injection,Hikma Pharmaceuticals USA Inc.,"Hikma Pharmaceuticals USA, Inc.",1,0,0,2021-11-23,,1,0,16.0,6.0,,0.0,53,7,4,3,1,0.0
+0703,Carboplatin Injection,"Teva Parenteral Medicines, Inc.","Teva Pharmaceuticals USA, Inc.",4,4,1,2023-04-28,Other,1,0,11.0,9.0,1989.0,11.0,10,9,3,9,1,1.0
+0703,Hydromorphone Hydrochloride Injection,"Teva Parenteral Medicines, Inc.","Teva Pharmaceuticals USA, Inc.",3,1,1,2017-11-01,Other,1,1,5.0,6.0,1984.0,3.0,10,9,3,10,1,0.3333333333333333
+0703,Methotrexate Sodium Injection,"Teva Parenteral Medicines, Inc.","Teva Pharmaceuticals USA, Inc.",3,3,1,2023-03-13,Other,1,0,2.0,2.0,1982.0,8.0,10,9,3,9,1,1.0
+0703,"Streptozocin Powder, For Solution","Teva Parenteral Medicines, Inc.","Teva Pharmaceuticals USA, Inc.",1,1,1,2022-07-12,Other,0,0,,,,,10,9,3,11,0,1.0
+0781,Clindamycin Phosphate Injection,Sandoz Inc,Sandoz Inc.,3,0,0,2023-03-21,,1,0,3.0,2.0,,0.0,125,13,7,7,1,0.0
+0781,Dexmedetomidine Hydrochloride Injection,Sandoz Inc,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.",3,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,125,13,7,5,1,0.0
+0781,Rocuronium Bromide Injection,Sandoz Inc,Sandoz Inc.,2,0,0,2023-02-15,,1,0,26.0,18.0,1994.0,18.0,125,13,7,7,1,0.0
+0990,Amino Acid Injection,ICU Medical Inc.,Otsuka ICU Medical LLC,4,2,1,2020-12-08,Shortage of an active ingredient,1,0,1.0,2.0,,,23,6,4,0,1,0.5
+0990,Dextrose Monohydrate 10% Injection,ICU Medical Inc.,Otsuka ICU Medical LLC,4,1,1,2022-03-01,Discontinuation of the manufacture of the drug,1,0,13.0,18.0,,0.0,23,6,4,1,1,0.25
+0990,Dextrose Monohydrate 5% Injection,ICU Medical Inc.,Otsuka ICU Medical LLC,10,0,0,2022-02-14,,1,0,13.0,18.0,,0.0,23,6,4,1,1,0.0
+0990,Dextrose Monohydrate 70% Injection,ICU Medical Inc.,Otsuka ICU Medical LLC,2,0,0,2024-10-11,,1,0,13.0,18.0,,0.0,23,6,4,2,1,0.0
+0990,Sterile Water Irrigant,ICU Medical Inc.,Otsuka ICU Medical LLC,4,4,1,2023-04-28,Discontinuation of the manufacture of the drug,0,0,,,,,23,6,4,2,0,1.0
+10019,Ifosfamide Injection,Baxter Healthcare Company,Baxter Healthcare,2,0,0,2026-06-12,,1,0,4.0,3.0,1988.0,3.0,11,1,1,1,1,0.0
+11534,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","SUNRISE PHARMACEUTICAL, INC.","Sunrise Pharmaceutical, Inc.",7,0,0,2022-10-12,,0,1,17.0,13.0,,,13,0,0,1,1,0.0
+13107,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","Aurolife Pharma, LLC",Aurobindo Pharma USA,6,6,1,2022-10-12,Shortage of an active ingredient,0,1,17.0,13.0,,,24,4,3,5,1,1.0
+13811,"Methylphenidate Hydrochloride Tablet, Extended Release","Trigen Laboratories, LLC","Trigen Laboratories, LLC",7,7,1,2023-07-26,Demand increase for the drug,0,1,29.0,29.0,1982.0,19.0,7,1,1,1,1,1.0
+16571,Cromolyn Sodium Concentrate,"Rising Pharma Holdings, Inc.","Rising Pharma Holdings, Inc.",1,0,0,2023-11-03,,0,0,3.0,3.0,1982.0,4.0,77,7,7,2,1,0.0
+16729,Atropine Sulfate Injection,Accord Healthcare Inc.,Accord Healthcare Inc.,6,5,1,2012-01-01,Requirements related to complying with good manufacturing practices,1,0,13.0,7.0,,0.0,91,100,12,2,1,0.8333333333333334
+16729,Azacitidine Injection,Accord Healthcare Inc.,Accord Healthcare Inc.,1,0,0,2020-12-21,,1,0,20.0,13.0,,0.0,91,100,12,3,1,0.0
+16729,Carboplatin Injection,Accord Healthcare Inc.,Accord Healthcare Inc.,4,4,1,2023-04-28,Discontinuation of the manufacture of the drug,1,0,11.0,9.0,1989.0,11.0,91,100,12,5,1,1.0
+16729,Clonazepam Tablet,Accord Healthcare Inc.,Accord Healthcare Inc.,6,0,0,2023-03-10,,0,1,36.0,11.0,1996.0,11.0,91,100,12,5,1,0.0
+16729,Dexmedetomidine Hydrochloride Injection,Accord Healthcare Inc.,Accord Healthcare Inc.,2,2,1,2020-04-10,Discontinuation of the manufacture of the drug,1,0,28.0,24.0,1999.0,22.0,91,100,12,2,1,1.0
+16729,Furosemide Injection,Accord Healthcare Inc.,Accord Healthcare Inc.,3,3,1,2020-04-07,Requirements related to complying with good manufacturing practices,1,0,17.0,11.0,1982.0,14.0,91,100,12,2,1,1.0
+16729,Methotrexate Sodium Injection,Accord Healthcare Inc.,Accord Healthcare Inc.,2,2,1,2023-03-13,Other,1,0,2.0,2.0,,0.0,91,100,12,5,1,1.0
+17478,Sufentanil Citrate Injection,"Hikma Pharmaceuticals USA, Inc.","Hikma Pharmaceuticals USA, Inc.",3,3,1,2022-05-03,Other,1,0,,,,,0,28,5,10,0,1.0
+21586,"Cefotaxime Sodium Powder, for Solution",SteriMax Inc.,"SteriMax, Inc.",2,0,0,2015-02-17,,0,0,0.0,0.0,,0.0,1,0,0,0,1,0.0
+21586,Ifosfamide Injection,SteriMax Inc.,"SteriMax, Inc.",1,0,0,2026-06-12,,0,0,0.0,0.0,,0.0,1,0,0,0,1,0.0
+23155,Furosemide Injection,Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.,"Avet Pharmaceuticals, Inc.",3,1,1,2020-04-07,Other,1,0,13.0,5.0,1982.0,14.0,117,11,6,8,1,0.3333333333333333
+23155,Midazolam Hydrochloride Injection,Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.,"Avet Pharmaceuticals, Inc.",3,0,0,2020-04-02,,1,1,18.0,11.0,1985.0,7.0,117,11,6,8,1,0.0
+25021,Clindamycin Phosphate Injection,Sagent Pharmaceuticals,Sagent Pharmaceuticals,3,3,1,2023-03-21,Discontinuation of the manufacture of the drug,1,0,5.0,2.0,1987.0,6.0,134,10,5,3,1,1.0
+25021,Furosemide Injection,Sagent Pharmaceuticals,Gland Pharma Limited,3,3,1,2020-04-07,Discontinuation of the manufacture of the drug,1,0,17.0,11.0,1982.0,14.0,134,10,5,4,1,1.0
+25021,Ketorolac Tromethamine Injection,Sagent Pharmaceuticals,Sagent Pharmaceuticals,6,1,1,2018-03-23,Demand increase for the drug,1,0,27.0,14.0,1989.0,14.0,134,10,5,7,1,0.16666666666666666
+25021,Methylprednisolone Acetate Injection,Sagent Pharmaceuticals,Sagent Pharmaceuticals,3,3,1,2021-12-15,Shortage of an active ingredient,1,0,5.0,3.0,1982.0,9.0,134,10,5,3,1,1.0
+25021,Metronidazole Injection,Sagent Pharmaceuticals,InfoRLife SA,1,1,1,2022-01-13,Other,1,0,9.0,4.0,1982.0,3.0,134,10,5,3,1,1.0
+25021,Midazolam Hydrochloride Injection,Sagent Pharmaceuticals,Gland Pharma Limited,2,2,1,2020-04-02,Other,1,1,18.0,11.0,1985.0,7.0,134,10,5,4,1,1.0
+25021,Rocuronium Bromide Injection,Sagent Pharmaceuticals,Sagent Pharmaceuticals,1,0,0,2023-02-15,,1,0,26.0,18.0,1994.0,18.0,134,10,5,3,1,0.0
+25021,Ropivacaine Hydrochloride Injection,Sagent Pharmaceuticals,InfoRLife SA,6,2,1,2018-03-27,Other,1,0,8.0,6.0,,0.0,134,10,5,7,1,0.3333333333333333
+31722,Bupivacaine Hydrochloride Injection,"Camber Pharmaceuticals, Inc.",Aspiro Pharma Limited,6,0,0,2018-02-20,,1,0,11.0,8.0,1984.0,10.0,259,6,6,5,1,0.0
+36000,Furosemide Injection,Baxter Healthcare Corporation,Baxter Healthcare,3,0,0,2020-04-07,,1,0,13.0,5.0,1982.0,14.0,20,4,4,2,1,0.0
+39822,Promethazine Hydrochloride Injection,"XGen Pharmaceuticals DJB, Inc.","XGen Pharmaceuticals DJB, Inc.",2,1,1,2023-11-21,Demand increase for the drug,1,0,7.0,2.0,1988.0,2.0,23,0,0,1,1,0.5
+39822,Rocuronium Bromide Injection,"XGen Pharmaceuticals DJB, Inc.","XGen Pharmaceuticals DJB, Inc.",2,0,0,2023-02-15,,0,0,2.0,1.0,2025.0,0.0,23,0,0,1,1,0.0
+42023,Dexmedetomidine Hydrochloride Injection,"Par Health USA, LLC","Par Health, USA LLC",3,2,1,2020-04-10,Other,1,0,28.0,24.0,1999.0,22.0,32,9,9,2,1,0.6666666666666666
+42023,Methylprednisolone Acetate Injection,"Par Health USA, LLC","Par Health, USA LLC",1,1,1,2022-06-16,Other,1,0,,,,,32,9,9,3,0,1.0
+42571,Cromolyn Sodium Concentrate,Micro Labs Limited,Micro Labs LTD,1,0,0,2023-11-03,,0,0,3.0,3.0,1982.0,4.0,72,3,3,0,1,0.0
+42806,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","Epic Pharma, LLC","Epic Pharma, LLC",5,5,1,2022-10-12,Shortage of an active ingredient,0,1,17.0,13.0,,,74,0,0,3,1,1.0
+42806,Rifampin Capsule,"Epic Pharma, LLC","Epic Pharma, LLC",6,4,1,2021-12-22,Discontinuation of the manufacture of the drug,0,0,10.0,4.0,1997.0,4.0,74,0,0,3,1,0.6666666666666666
+42858,Lisdexamfetamine Dimesylate Capsule,Rhodes Pharmaceuticals LLC,Rhodes Pharmaceuticals L.P.,7,5,1,2023-07-14,Shortage of an active ingredient,0,1,19.0,16.0,2007.0,16.0,16,1,1,2,1,0.7142857142857143
+43066,Dexmedetomidine Hydrochloride Injection,Baxter Healthcare Corporation,Baxter Healthcare,2,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,24,3,1,1,1,0.0
+43066,Rocuronium Bromide Injection,Baxter Healthcare Corporation,Baxter Healthcare,2,0,0,2023-02-15,,1,0,26.0,18.0,1994.0,18.0,24,3,1,0,1,0.0
+43066,Ropivacaine Hydrochloride Injection,Baxter Healthcare Corporation,"Caplin Steriles, Ltd.",4,2,1,2020-12-22,Other,1,0,18.0,9.0,,0.0,24,3,1,1,1,0.5
+43547,Clonazepam Tablet,"Solco Healthcare US, LLC","Prinston Pharmaceutical, Inc.",8,0,0,2023-03-10,,0,1,36.0,11.0,1996.0,11.0,75,2,1,4,1,0.0
+43547,Lisdexamfetamine Dimesylate Capsule,"Solco Healthcare US, LLC","Solco Healthcare US, LLC",7,7,1,2023-07-14,Shortage of an active ingredient,0,1,19.0,16.0,2007.0,16.0,75,2,1,3,1,1.0
+43547,Quinapril Hydrochloride Tablet,"Solco Healthcare US, LLC","Solco Healthcare US, LLC",4,4,1,2023-01-19,Shortage of an active ingredient,0,0,11.0,5.0,1991.0,4.0,75,2,1,4,1,1.0
+43598,Azacitidine Injection,Dr. Reddy's Laboratories Inc.,"Dr. Reddy's Laboratories, Inc.",1,0,0,2020-12-18,,1,0,20.0,13.0,,0.0,133,11,7,7,1,0.0
+43598,Dexmedetomidine Hydrochloride Injection,Dr. Reddy's Laboratories Inc.,Gland Pharma Limited,2,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,133,11,7,7,1,0.0
+44567,Dexmedetomidine Hydrochloride Injection,"WG Critical Care, LLC",HQ Specialty Pharma,4,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,35,0,0,0,1,0.0
+44567,Midazolam Hydrochloride Injection,"WG Critical Care, LLC",WG Critical Care,2,0,0,2020-04-02,,1,1,2.0,2.0,,0.0,35,0,0,0,1,0.0
+45567,Technetium TC-99M Pyrophosphate Kit Injection,"Sun Pharmaceutical Industries, Inc.","Sun Pharmaceutical Industries, Inc.",2,2,1,2023-12-27,Other,1,0,1.0,1.0,,0.0,5,1,1,0,1,1.0
+47335,Metronidazole Injection,"Sun Pharmaceutical Industries, Inc.",Gland Pharma Limited,1,1,1,2022-01-13,Discontinuation of the manufacture of the drug,1,0,9.0,4.0,1982.0,3.0,66,14,6,4,1,1.0
+47781,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",Alvogen Inc.,Alvogen,5,0,0,2022-10-12,,0,1,17.0,13.0,,,24,4,4,5,1,0.0
+47781,Lisdexamfetamine Dimesylate Capsule,Alvogen Inc.,Alvogen,7,0,0,2023-07-14,,0,1,19.0,16.0,2007.0,16.0,24,4,4,6,1,0.0
+48102,Echothiophate Iodide Ophthalmic Solution,"Fera Pharmaceuticals, LLC",Fera Pharmaceuticals,1,0,0,2019-09-24,Other,0,0,2.0,2.0,,,2,0,0,0,1,0.0
+50458,"Methylphenidate Hydrochloride Tablet, Extended Release","Janssen Pharmaceuticals, Inc.",Janssen Pharmaceuticals,4,0,0,2023-07-26,,0,1,29.0,29.0,1982.0,19.0,17,0,0,1,1,0.0
+50633,Hydroxocobalamin Injection,BTG International Inc.,BTG International Inc.,1,1,1,2024-11-04,Other,1,0,1.0,1.0,2006.0,1.0,5,0,0,0,1,1.0
+51754,Sodium Bicarbonate Injection,"Exela Pharma Sciences, LLC","Exela Pharma Sciences, LLC",3,0,0,2017-07-24,,1,0,20.0,13.0,,0.0,13,8,6,0,1,0.0
+52536,Dexmedetomidine Hydrochloride Injection,"Wilshire Pharmaceuticals, Inc.","Azurity Pharmaceuticals, Inc",2,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,19,1,1,0,1,0.0
+54288,Carboplatin Injection,BPI Labs LLC,Gland Pharma Limited,4,3,1,2023-04-28,Demand increase for the drug,1,0,11.0,9.0,1989.0,11.0,17,0,0,0,1,0.75
+55150,Azacitidine Injection,Eugia US LLC,Eugia US LLC,1,1,1,2020-12-22,Demand increase for the drug,1,0,20.0,13.0,,0.0,125,30,19,11,1,1.0
+55150,Bupivacaine Hydrochloride Injection,Eugia US LLC,Eugia US LLC,8,0,0,2018-02-20,,1,0,12.0,8.0,1984.0,10.0,125,30,19,4,1,0.0
+55150,Carboplatin Injection,Eugia US LLC,Eugia US LLC,2,1,1,2023-04-28,Demand increase for the drug,1,0,11.0,9.0,1989.0,11.0,125,30,19,12,1,0.5
+55150,Dexamethasone Sodium Phosphate Injection,Eugia US LLC,Eugia US LLC,1,0,0,2019-02-08,,1,0,20.0,12.0,1982.0,9.0,125,30,19,8,1,0.0
+55150,Dexmedetomidine Hydrochloride Injection,Eugia US LLC,Eugia US LLC,3,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,125,30,19,11,1,0.0
+55150,Etomidate Injection,Eugia US LLC,Eugia US LLC,2,2,1,2022-10-05,Demand increase for the drug,1,0,10.0,5.0,1982.0,6.0,125,30,19,16,1,1.0
+55150,Furosemide Injection,Eugia US LLC,Eugia US LLC,3,1,1,2020-04-07,Demand increase for the drug,1,0,17.0,11.0,1982.0,14.0,125,30,19,11,1,0.3333333333333333
+55150,Lidocaine Hydrochloride Injection,Eugia US LLC,Eugia US LLC,11,6,1,2018-02-20,Demand increase for the drug,1,0,15.0,9.0,1982.0,15.0,125,30,19,7,1,0.5454545454545454
+55150,Methylprednisolone Acetate Injection,Eugia US LLC,Eugia US LLC,2,2,1,2021-12-15,Demand increase for the drug,1,0,7.0,4.0,1982.0,9.0,125,30,19,12,1,1.0
+55150,Rocuronium Bromide Injection,Eugia US LLC,Eugia US LLC,2,0,0,2023-02-15,,1,0,26.0,18.0,1994.0,18.0,125,30,19,13,1,0.0
+55150,Ropivacaine Hydrochloride Injection,Eugia US LLC,Eugia US LLC,7,2,1,2018-03-23,Demand increase for the drug,1,0,18.0,9.0,,0.0,125,30,19,4,1,0.2857142857142857
+55566,Desmopressin Acetate Spray,Ferring Pharmaceuticals Inc.,Ferring,1,1,1,2021-03-12,Requirements related to complying with good manufacturing practices,0,0,,,,,11,4,3,1,0,1.0
+57664,Lisdexamfetamine Dimesylate Capsule,"Sun Pharmaceutical Industries, Inc.","Sun Pharmaceutical Industries, Inc.",7,7,1,2023-07-14,Other,0,1,19.0,16.0,2007.0,16.0,22,13,7,4,1,1.0
+57664,"Lisdexamfetamine Dimesylate Tablet, Chewable","Sun Pharmaceutical Industries, Inc.","Sun Pharmaceutical Industries, Inc.",6,0,0,2023-07-14,,0,1,7.0,7.0,2017.0,6.0,22,13,7,4,1,0.0
+57664,"Methylphenidate Hydrochloride Tablet, Extended Release","Sun Pharmaceutical Industries, Inc.","Sun Pharmaceutical Industries, Inc.",4,4,1,2023-07-26,Discontinuation of the manufacture of the drug,0,0,,,,,22,13,7,4,0,1.0
+57844,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","Teva Pharmaceuticals USA, Inc.","Teva Pharmaceuticals USA, Inc.",7,1,1,2022-10-12,Other,0,1,17.0,13.0,,,1,0,0,0,1,0.14285714285714285
+59137,Triamcinolone Hexacetonide Injection,"Medexus Pharma, Inc.",Medexus,1,0,0,2021-05-04,,1,0,0.0,0.0,,0.0,3,0,0,0,1,0.0
+59417,Lisdexamfetamine Dimesylate Capsule,"Takeda Pharmaceuticals America, Inc.",Takeda Pharmaceuticals USA Inc.,7,0,0,2023-07-14,,0,1,19.0,16.0,2007.0,16.0,2,0,0,0,1,0.0
+59417,"Lisdexamfetamine Dimesylate Tablet, Chewable","Takeda Pharmaceuticals America, Inc.",Takeda Pharmaceuticals USA Inc.,6,0,0,2023-07-14,,0,1,7.0,7.0,2017.0,6.0,2,0,0,0,1,0.0
+59572,Azacitidine Injection,Celgene Corporation,Bristol Myers Squibb Co.,1,0,0,2020-12-18,,1,0,20.0,13.0,,0.0,10,0,0,1,1,0.0
+59651,Clonazepam Tablet,Aurobindo Pharma Limited,Aurobindo Pharma USA,6,0,0,2023-03-10,,0,1,36.0,11.0,1996.0,11.0,208,4,3,2,1,0.0
+60505,Carboplatin Injection,Apotex Corp.,Teyro Labs,4,4,1,2023-04-28,Discontinuation of the manufacture of the drug,1,0,11.0,9.0,1989.0,11.0,147,19,13,12,1,1.0
+60505,Desmopressin Acetate Spray,Apotex Corp.,Apotex Corp.,1,0,0,2021-03-12,,0,0,1.0,1.0,,0.0,147,19,13,9,1,0.0
+60505,Lisdexamfetamine Dimesylate Capsule,Apotex Corp.,Apotex Corp.,7,1,1,2023-11-01,Delay in shipping of the drug,0,1,19.0,16.0,2007.0,16.0,147,19,13,11,1,0.14285714285714285
+60793,Penicillin G Benzathine Injection,Pfizer Laboratories Div Pfizer Inc,Pfizer Inc.,3,3,1,2023-04-26,Other,1,0,2.0,1.0,,0.0,4,5,4,3,1,1.0
+61269,Clonazepam Tablet,"H2-Pharma, LLC",Cheplapharm Arzneimittel GmbH,3,0,0,2023-03-10,,0,1,36.0,11.0,1996.0,11.0,13,0,0,0,1,0.0
+61703,Carboplatin Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",8,8,1,2023-04-28,Other,1,0,11.0,9.0,1989.0,11.0,13,1,1,1,1,1.0
+61703,Methotrexate Sodium Injection,"Hospira, Inc.","Hospira, Inc., a Pfizer Company",5,0,0,2023-03-13,,1,0,4.0,3.0,1982.0,8.0,13,1,1,1,1,0.0
+62037,"Methylphenidate Hydrochloride Tablet, Extended Release","Actavis Pharma, Inc.","Teva Pharmaceuticals USA, Inc.",4,2,1,2023-07-26,Other,0,1,29.0,29.0,1982.0,19.0,4,1,1,4,1,0.5
+62135,Flurazepam Hydrochloride Capsule,"Chartwell RX, LLC",Chartwell Molecular Holdings LLC,4,0,0,2022-08-03,,0,1,1.0,2.0,1985.0,2.0,261,0,0,0,1,0.0
+62135,Quinapril Hydrochloride Tablet,"Chartwell RX, LLC",Chartwell Molecular Holdings LLC,4,0,0,2023-01-19,,0,0,11.0,5.0,1991.0,4.0,261,0,0,0,1,0.0
+62135,Quinapril/Hydrochlorothiazide Tablet,"Chartwell RX, LLC",Chartwell Molecular Holdings LLC,3,0,0,2023-01-19,,0,0,4.0,3.0,,,261,0,0,0,1,0.0
+62175,"Methylphenidate Hydrochloride Tablet, Extended Release","Lannett Company, Inc.","Lannett Company, Inc.",4,2,1,2023-07-26,Other,0,1,29.0,29.0,1982.0,19.0,12,2,2,1,1,0.5
+62332,Ketorolac Tromethamine Injection,Alembic Pharmaceuticals Inc.,Alembic Pharmaceuticals,3,0,0,2018-03-23,,1,0,27.0,14.0,1989.0,14.0,186,4,4,0,1,0.0
+63323,Atropine Sulfate Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,0,0,2012-01-01,,1,0,8.0,3.0,,0.0,192,17,7,0,1,0.0
+63323,Azacitidine Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,1,1,2020-12-18,Discontinuation of the manufacture of the drug,1,0,20.0,13.0,,0.0,192,17,7,13,1,1.0
+63323,Bupivacaine Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",10,2,1,2018-02-20,Delay in shipping of the drug,1,0,12.0,8.0,1984.0,10.0,192,17,7,15,1,0.2
+63323,"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection","Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",8,1,1,2018-02-20,Delay in shipping of the drug,1,0,4.0,4.0,,,192,17,7,15,1,0.125
+63323,Carboplatin Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,1,1,2023-04-28,Delay in shipping of the drug,1,0,11.0,9.0,1989.0,11.0,192,17,7,15,1,1.0
+63323,Dexamethasone Sodium Phosphate Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",5,0,0,2019-02-08,,1,0,20.0,12.0,1982.0,9.0,192,17,7,11,1,0.0
+63323,Dexmedetomidine Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",4,4,1,2020-04-10,Delay in shipping of the drug,1,0,28.0,24.0,1999.0,22.0,192,17,7,10,1,1.0
+63323,Dextrose Monohydrate 10% Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",3,0,0,2022-03-01,,1,0,13.0,18.0,,0.0,192,17,7,12,1,0.0
+63323,"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection","Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",12,4,1,2016-10-14,Demand increase for the drug,1,0,7.0,2.0,,,192,17,7,15,1,0.3333333333333333
+63323,Fentanyl Citrate Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",6,1,1,2012-01-01,Other,1,1,5.0,4.0,1984.0,1.0,192,17,7,0,1,0.16666666666666666
+63323,Furosemide Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",3,0,0,2020-04-07,,1,0,17.0,11.0,1982.0,14.0,192,17,7,10,1,0.0
+63323,Heparin Sodium Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",2,1,1,2017-11-14,Other,1,0,5.0,6.0,1982.0,10.0,192,17,7,16,1,0.5
+63323,Hydromorphone Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",6,2,1,2017-10-31,Other,1,1,5.0,6.0,1984.0,3.0,192,17,7,16,1,0.3333333333333333
+63323,Ifosfamide Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,1,1,2026-06-12,Demand increase for the drug,1,0,4.0,3.0,1988.0,3.0,192,17,7,8,1,1.0
+63323,Ketorolac Tromethamine Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",3,2,1,2018-03-23,Delay in shipping of the drug,1,0,27.0,14.0,1989.0,14.0,192,17,7,15,1,0.6666666666666666
+63323,Lidocaine Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",20,10,1,2012-02-22,Demand increase for the drug,1,0,15.0,8.0,1982.0,15.0,192,17,7,0,1,0.5
+63323,Methotrexate Sodium Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",2,0,0,2023-03-13,,1,0,2.0,2.0,1982.0,8.0,192,17,7,15,1,0.0
+63323,Midazolam Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",6,3,1,2020-04-02,Demand increase for the drug,1,1,18.0,11.0,1985.0,7.0,192,17,7,10,1,0.5
+63323,Morphine Sulfate Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",4,3,1,2017-10-31,Other,1,1,2.0,1.0,1984.0,4.0,192,17,7,16,1,0.75
+63323,Propranolol Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,0,0,2023-10-31,,1,0,6.0,2.0,1986.0,2.0,192,17,7,15,1,0.0
+63323,Remifentanil Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",3,1,1,2022-06-28,Delay in shipping of the drug,1,1,4.0,3.0,1996.0,3.0,192,17,7,13,1,0.3333333333333333
+63323,Rifampin Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,1,1,2021-02-17,Other,1,0,3.0,3.0,1989.0,5.0,192,17,7,14,1,1.0
+63323,Rocuronium Bromide Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",2,1,1,2023-02-15,Requirements related to complying with good manufacturing practices,1,0,26.0,18.0,1994.0,18.0,192,17,7,15,1,0.5
+63323,Ropivacaine Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",20,9,1,2018-03-23,Delay in shipping of the drug,1,0,18.0,9.0,,0.0,192,17,7,15,1,0.45
+63323,Sodium Acetate Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,0,0,2016-03-23,,1,0,2.0,2.0,,0.0,192,17,7,12,1,0.0
+63323,Sodium Bicarbonate Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",2,0,0,2017-07-24,,1,0,20.0,13.0,,0.0,192,17,7,17,1,0.0
+63323,Sterile Water Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",4,1,1,2021-11-23,Demand increase for the drug,1,0,16.0,8.0,,0.0,192,17,7,13,1,0.25
+63323,Valproate Sodium Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,0,0,2020-12-30,,1,0,3.0,3.0,1996.0,3.0,192,17,7,14,1,0.0
+64253,Atropine Sulfate Injection,"Medefil, Inc.","Medefil, Inc.",1,0,0,2012-01-01,,1,0,13.0,7.0,,0.0,4,0,0,0,1,0.0
+64253,Sterile Water Injection,"Medefil, Inc.","Medefil, Inc.",1,0,0,2021-11-23,,1,0,16.0,6.0,,0.0,4,0,0,0,1,0.0
+64850,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","Elite Laboratories, Inc.","Elite Laboratories, Inc.",7,0,0,2022-10-12,,0,1,17.0,13.0,,,16,0,0,0,1,0.0
+64850,Lisdexamfetamine Dimesylate Capsule,"Elite Laboratories, Inc.","Elite Laboratories, Inc.",7,7,1,2023-07-14,Shortage of an active ingredient,0,1,19.0,16.0,2007.0,16.0,16,0,0,0,1,1.0
+65162,Lisdexamfetamine Dimesylate Capsule,Amneal Pharmaceuticals LLC,Amneal Pharmaceuticals,6,0,0,2023-07-14,,0,1,19.0,16.0,2007.0,16.0,117,9,8,7,1,0.0
+65219,Dextrose Monohydrate 5% Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",5,0,0,2022-02-14,Demand increase for the drug,1,0,13.0,18.0,,0.0,77,10,2,0,1,0.0
+65219,Etomidate Injection,"Fresenius Kabi USA, LLC","Caplin Steriles, Ltd.",2,0,0,2022-10-05,,1,0,10.0,5.0,1982.0,6.0,77,10,2,0,1,0.0
+65219,Lorazepam Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,1,1,2018-05-03,Demand increase for the drug,1,1,6.0,4.0,1994.0,4.0,77,10,2,0,1,1.0
+65219,Rocuronium Bromide Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",3,1,1,2023-02-15,Delay in shipping of the drug,1,0,26.0,18.0,1994.0,18.0,77,10,2,0,1,0.3333333333333333
+65219,Ropivacaine Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",2,0,0,2018-03-23,,1,0,18.0,9.0,,0.0,77,10,2,0,1,0.0
+65282,Lidocaine Hydrochloride Injection,"Spectra Medical Devices, LLC","Spectra Medical Devices, LLC",1,1,1,2018-06-14,Other,1,0,6.0,3.0,,0.0,2,2,2,0,1,1.0
+65862,Quinapril Hydrochloride Tablet,Aurobindo Pharma Limited,Aurobindo Pharma USA,4,4,1,2023-01-19,Discontinuation of the manufacture of the drug,0,0,11.0,5.0,1991.0,4.0,204,6,4,13,1,1.0
+65862,Quinapril/Hydrochlorothiazide Tablet,Aurobindo Pharma Limited,Aurobindo Pharma USA,3,3,1,2023-01-19,Discontinuation of the manufacture of the drug,0,0,4.0,3.0,,,204,6,4,13,1,1.0
+66220,Conivaptan Hydrochloride Injection,Cumberland Pharmaceuticals Inc.,Cumberland Pharmaceuticals Inc.,1,1,1,2022-03-14,Delay in shipping of the drug,1,0,,,,,5,0,0,0,0,1.0
+66794,Dexmedetomidine Hydrochloride Injection,Piramal Critical Care Inc,Gland Pharma Limited,1,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,16,21,1,1,1,0.0
+66794,Morphine Sulfate Injection,Piramal Critical Care Inc,Piramal Critical Care Inc.,2,0,0,2017-10-31,,1,1,2.0,2.0,1984.0,4.0,16,21,1,1,1,0.0
+66794,Rocuronium Bromide Injection,Piramal Critical Care Inc,Piramal Critical Care Inc.,2,1,1,2023-02-15,Demand increase for the drug,1,0,26.0,18.0,1994.0,18.0,16,21,1,2,1,0.5
+67457,Dexamethasone Sodium Phosphate Injection,Mylan Institutional LLC,"Mylan Institutional, a Viatris Company",4,0,0,2019-02-08,,1,0,20.0,12.0,1982.0,9.0,68,7,7,6,1,0.0
+67457,Dexmedetomidine Hydrochloride Injection,Mylan Institutional LLC,"Mylan Institutional, a Viatris Company",3,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,68,7,7,3,1,0.0
+67457,Etomidate Injection,Mylan Institutional LLC,"Mylan Institutional, a Viatris Company",2,0,0,2022-10-05,,1,0,10.0,5.0,1982.0,6.0,68,7,7,9,1,0.0
+67457,Rifampin Injection,Mylan Institutional LLC,"Mylan Institutional, a Viatris Company",1,1,1,2021-02-17,Demand increase for the drug,1,0,3.0,3.0,1989.0,5.0,68,7,7,6,1,1.0
+67457,Rocuronium Bromide Injection,Mylan Institutional LLC,"Mylan Institutional, a Viatris Company",2,0,0,2023-02-15,,1,0,26.0,18.0,1994.0,18.0,68,7,7,10,1,0.0
+68001,Azacitidine Injection,BluePoint Laboratories,"Teva Pharmaceuticals USA, Inc.",1,1,1,2020-12-22,Other,1,0,20.0,13.0,,0.0,87,18,8,3,1,1.0
+68025,"Methylphenidate Hydrochloride Tablet, Extended Release","Vertical Pharmaceuticals, LLC","Vertical Pharmaceuticals, LLC",11,0,0,2023-07-26,,0,1,29.0,29.0,1982.0,19.0,3,0,0,0,1,0.0
+68118,"Streptozocin Powder, For Solution","ESTEVE PHARMACEUTICALS, S.A.","ESTEVE PHARMACEUTICALS, S.A.",1,0,0,2022-07-12,,0,0,,,,,4,0,0,0,0,0.0
+68180,Quinapril Hydrochloride Tablet,"Lupin Pharmaceuticals, Inc.","Lupin Pharmaceuticals, Inc.",4,4,1,2023-01-19,Requirements related to complying with good manufacturing practices,0,0,11.0,5.0,1991.0,4.0,120,39,26,38,1,1.0
+68180,Rifampin Capsule,"Lupin Pharmaceuticals, Inc.","Lupin Pharmaceuticals, Inc.",3,0,0,2021-12-22,,0,0,10.0,4.0,1997.0,4.0,120,39,26,30,1,0.0
+69784,Cromolyn Sodium Concentrate,Ailex Pharmaceuticals,Ailex Pharmaceuticals,1,1,1,2023-11-03,Other,0,0,,,,,0,0,0,0,0,1.0
+69918,Desmopressin Acetate Spray,"Nordic Pharma, Inc.",Ferring,1,1,1,2021-03-12,Requirements related to complying with good manufacturing practices,0,0,,,,,10,0,0,1,0,1.0
+69945,Technetium TC-99M Pyrophosphate Kit Injection,Curium US LLC,Curium US LLC,1,1,1,2023-12-27,Shortage of an active ingredient,1,0,1.0,1.0,,,15,1,1,0,1,1.0
+70010,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",Granules Pharmaceuticals Inc.,Granules Pharmaceuticals Inc.,7,7,1,2022-10-12,Shortage of an active ingredient,0,1,17.0,13.0,,,43,4,4,1,1,1.0
+70069,Atropine Sulfate Injection,"Somerset Therapeutics, LLC","Somerset Therapeutics, LLC",3,0,0,2012-01-01,,0,0,3.0,1.0,2001.0,7.0,89,9,4,0,1,0.0
+70069,Bupivacaine Hydrochloride Injection,"Somerset Therapeutics, LLC","Somerset Therapeutics, LLC",6,0,0,2018-02-20,,1,0,12.0,8.0,1984.0,10.0,89,9,4,0,1,0.0
+70069,Dexamethasone Sodium Phosphate Injection,"Somerset Therapeutics, LLC","Somerset Therapeutics, LLC",2,0,0,2019-02-08,,1,0,20.0,12.0,1982.0,9.0,89,9,4,0,1,0.0
+70069,Dexmedetomidine Hydrochloride Injection,"Somerset Therapeutics, LLC","Somerset Therapeutics, LLC",2,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,89,9,4,0,1,0.0
+70069,Ropivacaine Hydrochloride Injection,"Somerset Therapeutics, LLC","Somerset Therapeutics, LLC",10,0,0,2018-03-23,,1,0,18.0,9.0,,0.0,89,9,4,0,1,0.0
+70069,Sodium Acetate Injection,"Somerset Therapeutics, LLC","Somerset Therapeutics, LLC",2,0,0,2016-02-03,,0,0,1.0,1.0,,0.0,89,9,4,0,1,0.0
+70121,Dexmedetomidine Hydrochloride Injection,Amneal Pharmaceuticals LLC,Amneal Pharmaceuticals,4,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,65,5,4,2,1,0.0
+70121,Methylprednisolone Acetate Injection,Amneal Pharmaceuticals LLC,Amneal Pharmaceuticals,4,1,1,2021-12-15,Other,1,0,7.0,4.0,1982.0,9.0,65,5,4,2,1,0.25
+70436,Dobutamine Hydrochloride Injection,"Slate Run Pharmaceuticals, LLC","Hainan Poly Pharm. Co., Ltd.",1,0,0,2017-11-06,,1,0,5.0,5.0,1993.0,3.0,47,2,1,0,1,0.0
+70726,Riluzole Oral Suspension,EDW PHARMA,"EDW Pharma, Inc. (formerly Italfarmaco Pharma, Inc.)",4,1,1,2024-01-26,Requirements related to complying with good manufacturing practices,0,0,1.0,1.0,,0.0,1,1,1,1,1,0.25
+71288,Azacitidine Injection,Meitheal Pharmaceuticals Inc.,"Meitheal Pharmaceuticals, Inc.",1,0,0,2020-12-18,,1,0,20.0,13.0,,0.0,93,8,2,0,1,0.0
+71288,Bupivacaine Hydrochloride Injection,Meitheal Pharmaceuticals Inc.,Kindos Pharmaceuticals Co. Ltd.,5,5,1,2018-02-20,Discontinuation of the manufacture of the drug,1,0,12.0,8.0,1984.0,10.0,93,8,2,0,1,1.0
+71288,Dexmedetomidine Hydrochloride Injection,Meitheal Pharmaceuticals Inc.,"Meitheal Pharmaceuticals, Inc.",1,0,0,2021-04-10,,1,0,28.0,24.0,1999.0,22.0,93,8,2,1,1,0.0
+71288,Furosemide Injection,Meitheal Pharmaceuticals Inc.,"Meitheal Pharmaceuticals, Inc.",3,0,0,2020-04-07,,1,0,17.0,11.0,1982.0,14.0,93,8,2,0,1,0.0
+71288,Liraglutide Injection,Meitheal Pharmaceuticals Inc.,"Meitheal Pharmaceuticals, Inc.",2,0,0,2023-07-18,,1,0,11.0,10.0,,0.0,93,8,2,2,1,0.0
+71288,Rocuronium Bromide Injection,Meitheal Pharmaceuticals Inc.,"Meitheal Pharmaceuticals, Inc.",2,0,0,2023-02-15,,1,0,26.0,18.0,1994.0,18.0,93,8,2,1,1,0.0
+71357,Sodium Acetate Injection,MILLA PHARMACEUTICALS INC.,Milla Pharmaceuticals,4,1,1,2016-02-03,Other,1,0,2.0,2.0,,0.0,6,0,0,0,1,0.25
+72078,Remifentanil Hydrochloride Injection,Mylan Institutional LLC,"Mylan Institutional, a Viatris Company",3,0,0,2022-06-28,,1,1,4.0,3.0,1996.0,3.0,11,0,0,0,1,0.0
+72205,"Lisdexamfetamine Dimesylate Tablet, Chewable",Novadoz Pharmaceuticals LLC,Novadoz Pharmaceuticals LLC,6,0,0,2023-07-14,,0,1,7.0,7.0,2017.0,6.0,108,0,0,0,1,0.0
+72266,Bupivacaine Hydrochloride Injection,Fosun Pharma USA Inc.,ONESOURCE SPECIALTY PTE LTD,1,0,0,2018-02-20,,1,0,2.0,1.0,1984.0,10.0,38,0,0,0,1,0.0
+72266,Etomidate Injection,Fosun Pharma USA Inc.,Gland Pharma Limited,2,0,0,2022-10-05,,0,0,2.0,1.0,,0.0,38,0,0,0,1,0.0
+72266,Ketorolac Tromethamine Injection,Fosun Pharma USA Inc.,Gland Pharma Limited,2,0,0,2018-06-06,Demand increase for the drug,1,0,27.0,14.0,1989.0,14.0,38,0,0,0,1,0.0
+72336,Isocarboxazid Tablet,Lifsa Drugs LLC,Lifsa Drugs LLC,1,1,1,2026-04-16,Other,0,0,1.0,1.0,,0.0,8,0,0,0,1,1.0
+72485,Azacitidine Injection,Armas Pharmaceuticals Inc.,Armas Pharmaceuticals Inc,1,1,1,2020-12-18,Other,1,0,20.0,13.0,,0.0,45,0,0,1,1,1.0
+72485,Etomidate Injection,Armas Pharmaceuticals Inc.,"Caplin Steriles, Ltd.",2,0,0,2022-10-05,,1,0,10.0,5.0,1982.0,6.0,45,0,0,2,1,0.0
+72516,"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",Oryza Pharmaceuticals Inc.,Oryza Pharmaceuticals Inc.,5,5,1,2022-10-12,Shortage of an active ingredient,0,1,17.0,13.0,,,7,1,1,1,1,1.0
+72572,Clindamycin Phosphate Injection,"Civica, Inc.",Sandoz Inc.,2,0,0,2023-03-21,,1,0,3.0,2.0,,0.0,64,12,7,2,1,0.0
+72572,Dexmedetomidine Hydrochloride Injection,"Civica, Inc.","Azurity Pharmaceuticals, Inc",2,0,0,2020-04-10,,1,0,28.0,24.0,1999.0,22.0,64,12,7,0,1,0.0
+72572,Etomidate Injection,"Civica, Inc.","Hikma Pharmaceuticals USA, Inc.",2,0,0,2022-10-05,,1,0,10.0,5.0,1982.0,6.0,64,12,7,1,1,0.0
+72888,Clonazepam Tablet,Advagen Pharma Ltd,Rubicon Research Private Limited,11,0,0,2023-03-10,,0,1,36.0,11.0,1996.0,11.0,77,1,1,0,1,0.0
+73293,Bupivacaine Hydrochloride Injection,"Huons Co., Ltd.","Huons Co., Ltd",1,1,1,2018-02-20,Demand increase for the drug,1,0,4.0,4.0,1984.0,10.0,2,3,1,0,1,1.0
+73293,Lidocaine Hydrochloride Injection,"Huons Co., Ltd.","Huons Co., Ltd. (South Korea)",1,1,1,2018-07-14,Demand increase for the drug,0,0,6.0,1.0,1982.0,12.0,2,3,1,0,1,1.0
+76045,Dexamethasone Sodium Phosphate Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",4,2,1,2019-02-08,Demand increase for the drug,1,0,20.0,12.0,1982.0,9.0,17,1,1,1,1,0.5
+76045,Hydromorphone Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",4,4,1,2017-10-31,Other,1,1,5.0,6.0,1984.0,3.0,17,1,1,1,1,1.0
+76045,Ketorolac Tromethamine Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",3,3,1,2018-03-23,Other,1,0,27.0,14.0,1989.0,14.0,17,1,1,1,1,1.0
+76045,Midazolam Hydrochloride Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",1,1,1,2020-04-02,Demand increase for the drug,1,1,18.0,11.0,1985.0,7.0,17,1,1,1,1,1.0
+76045,Morphine Sulfate Injection,"Fresenius Kabi USA, LLC","Fresenius Kabi USA, LLC",2,2,1,2017-10-31,Other,1,1,2.0,1.0,1984.0,4.0,17,1,1,1,1,1.0
+76204,Cromolyn Sodium Concentrate,"Ritedose Pharmaceuticals, LLC",Ailex Pharmaceuticals,1,1,1,2023-11-03,Other,0,0,,,,,7,1,1,1,0,1.0
+76329,Atropine Sulfate Injection,"International Medication Systems, Limited","Amphastar Pharmaceuticals, Inc.",1,0,0,2020-01-01,,1,0,13.0,7.0,,0.0,17,1,1,0,1,0.0
+76329,Dextrose Monohydrate 50% Injection,"International Medication Systems, Limited","Amphastar Pharmaceuticals, Inc.",1,0,0,2022-01-13,,1,0,13.0,18.0,,0.0,17,1,1,0,1,0.0
+76329,Lidocaine Hydrochloride Injection,"International Medication Systems, Limited","Amphastar Pharmaceuticals, Inc.",1,1,1,2012-02-22,Demand increase for the drug,1,0,10.0,5.0,1982.0,15.0,17,1,1,0,1,1.0
+76329,Lorazepam Injection,"International Medication Systems, Limited","Amphastar Pharmaceuticals, Inc.",1,0,0,2018-05-03,,1,1,6.0,4.0,1994.0,4.0,17,1,1,0,1,0.0
+76329,Morphine Sulfate Injection,"International Medication Systems, Limited","Amphastar Pharmaceuticals, Inc.",1,0,0,2018-12-06,,1,1,4.0,4.0,1984.0,4.0,17,1,1,0,1,0.0
+76329,Sodium Bicarbonate Injection,"International Medication Systems, Limited","Amphastar Pharmaceuticals, Inc.",1,1,1,2017-03-01,Demand increase for the drug,1,0,20.0,13.0,,0.0,17,1,1,0,1,1.0
+81298,Sodium Bicarbonate Injection,"Long Grove Pharmaceuticals, LLC",Long Grove Pharmaceuticals LLC,1,0,0,2017-03-01,,0,0,2.0,1.0,1986.0,11.0,9,2,1,0,1,0.0
+81665,Cromolyn Sodium Concentrate,OMNIVIUM PHARMACEUTICALS LLC.,Ailex Pharmaceuticals,1,0,0,2023-11-03,,0,0,3.0,3.0,1982.0,4.0,9,0,0,0,1,0.0
+83634,Dexmedetomidine Hydrochloride Injection,"Avenacy, LLC","Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)",1,1,1,2020-04-10,Discontinuation of the manufacture of the drug,1,0,28.0,24.0,1999.0,22.0,33,0,0,0,1,1.0
+83634,Lidocaine Hydrochloride Injection,"Avenacy, LLC",Anthea Pharma,6,0,0,2012-02-22,,1,0,15.0,9.0,1982.0,15.0,33,0,0,0,1,0.0
+83831,Carboplatin Injection,"Avyxa Pharma, LLC","Avyxa Pharma, LLC",2,0,0,2023-04-28,,1,0,11.0,9.0,1989.0,11.0,13,0,0,0,1,0.0
+84383,Penicillin G Benzathine Injection,"LABORATRIOS ATRAL, S.A.",Laboratorios Atral,1,0,0,2023-04-26,,1,0,2.0,1.0,,0.0,0,0,0,0,1,0.0

@@ -1,0 +1,52 @@
+{
+ "ndc_export_date": "2026-10-14",
+ "ndc_products_total": 138449,
+ "ndc_rx_approved_finished": 54953,
+ "ndc_markets": 3444,
+ "ndc_firm_market_cells": 22009,
+ "orange_book_rows": 48865,
+ "enforcement_export_date": "2026-10-14",
+ "recall_reports": 18010,
+ "shortage_snapshot_date": "2026-10-13",
+ "shortage_records_all": 1580,
+ "shortage_status_counts": {
+  "To Be Discontinued": 420,
+  "Current": 1141,
+  "Resolved": 19
+ },
+ "tbd_records_in_listed_drugs": 35,
+ "tbd_records_total": 420,
+ "tbd_rows_written": 35,
+ "current_presentations": 1141,
+ "current_presentations_in_ndc": 1099,
+ "current_unavailable_presentations": 400,
+ "availability_counts": {
+  "Available": "741",
+  "Unavailable": "271",
+  "Limited Availability": "129"
+ },
+ "cells": 306,
+ "cells_unavailable": 161,
+ "drugs": 69,
+ "firms": 112,
+ "drugs_injectable": 50,
+ "available_with_reason": 11,
+ "available_related_info": {
+  "blank": 487,
+  "wholesalers": 125,
+  "allocation": 1
+ },
+ "labeler_codes_with_multiple_companies": 19,
+ "companies_with_multiple_labelers": 20,
+ "reason_counts": {
+  "(none)": "731",
+  "Other": "151",
+  "Demand increase for the drug": "106",
+  "Shortage of an active ingredient": "60",
+  "Discontinuation of the manufacture of the drug": "50",
+  "Delay in shipping of the drug": "20",
+  "Requirements related to complying with good manufacturing practices": "17",
+  "Shortage of an inactive ingredient component": "4",
+  "Regulatory delay": "2"
+ }
+}

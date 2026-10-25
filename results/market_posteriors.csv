@@ -1,0 +1,70 @@
+drug,w_post,n_firms,n_unavailable
+Rifampin Injection,0.6070833333333333,3,3
+Methylprednisolone Acetate Injection,0.5827083333333334,5,5
+Carboplatin Injection,0.5025000000000001,8,7
+Hydromorphone Hydrochloride Injection,0.45699999999999996,4,4
+Promethazine Hydrochloride Injection,0.4403333333333333,2,2
+Ropivacaine Hydrochloride Injection,0.43395833333333333,5,4
+Heparin Sodium Injection,0.4325,4,2
+Fentanyl Citrate Injection,0.4302083333333333,3,3
+Technetium TC-99M Pyrophosphate Kit Injection,0.42454166666666665,2,2
+Hydroxocobalamin Injection,0.42033333333333334,2,2
+"Methylphenidate Hydrochloride Tablet, Extended Release",0.419875,6,4
+Quinapril Hydrochloride Tablet,0.40825,4,3
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",0.3984583333333333,2,2
+Isocarboxazid Tablet,0.39729166666666665,1,1
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",0.39629166666666665,2,2
+Bacitracin Ophthalmic Ointment,0.3958333333333333,1,1
+Riluzole Oral Suspension,0.393875,1,1
+Conivaptan Hydrochloride Injection,0.39283333333333337,1,1
+Clindamycin Phosphate Injection,0.389875,4,3
+Ketorolac Tromethamine Injection,0.37579166666666663,7,5
+Furosemide Oral Solution,0.374375,1,1
+Lidocaine Hydrochloride Injection,0.37424999999999997,10,6
+Pentostatin Injection,0.37275,1,1
+Ifosfamide Injection,0.370375,4,3
+Lorazepam Injection,0.36604166666666665,4,3
+Furosemide Injection,0.3631666666666667,8,5
+Metronidazole Injection,0.3599583333333334,3,2
+Sterile Water Irrigant,0.35883333333333334,3,2
+Flurazepam Hydrochloride Capsule,0.3572916666666667,2,1
+Amino Acid Injection,0.3544166666666666,3,2
+Remifentanil Hydrochloride Injection,0.3414583333333333,3,2
+Dopamine Hydrochloride Injection,0.34099999999999997,3,2
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",0.3368333333333333,11,6
+Desmopressin Acetate Spray,0.3343333333333333,2,1
+Rifampin Capsule,0.32754166666666673,2,1
+Penicillin G Benzathine Injection,0.32666666666666666,2,1
+Sufentanil Citrate Injection,0.32545833333333335,2,1
+Quinapril/Hydrochlorothiazide Tablet,0.325125,2,1
+Morphine Sulfate Injection,0.324625,5,3
+Dextrose Monohydrate 50% Injection,0.32379166666666664,2,1
+Methotrexate Sodium Injection,0.32379166666666664,5,3
+"Streptozocin Powder, For Solution",0.32295833333333335,2,1
+"Cefotaxime Sodium Powder, for Solution",0.32133333333333336,2,1
+Propranolol Hydrochloride Injection,0.3207083333333333,2,1
+Sodium Bicarbonate Injection,0.3180833333333334,5,2
+Echothiophate Iodide Ophthalmic Solution,0.3107083333333333,1,0
+"Methylphenidate Film, Extended Release",0.3040833333333333,1,0
+Liraglutide Injection,0.302875,3,1
+Triamcinolone Hexacetonide Injection,0.3,1,0
+Bupivacaine Hydrochloride Injection,0.2970833333333333,8,4
+Midazolam Hydrochloride Injection,0.296875,6,3
+Lisdexamfetamine Dimesylate Capsule,0.29475,13,6
+Dextrose Monohydrate 70% Injection,0.29333333333333333,3,1
+Dobutamine Hydrochloride Injection,0.288625,3,1
+Sterile Water Injection,0.28791666666666665,5,2
+Sodium Acetate Injection,0.28358333333333335,5,2
+Cromolyn Sodium Concentrate,0.274125,4,1
+Valproate Sodium Injection,0.27275,2,0
+Meperidine Hydrochloride Injection,0.2709583333333333,2,0
+Dextrose Monohydrate 5% Injection,0.26816666666666666,4,1
+Azacitidine Injection,0.265625,9,4
+Dextrose Monohydrate 10% Injection,0.26458333333333334,4,1
+Etomidate Injection,0.251625,6,2
+"Lisdexamfetamine Dimesylate Tablet, Chewable",0.24912499999999999,3,0
+Dexamethasone Sodium Phosphate Injection,0.24441666666666664,5,1
+Clonazepam Tablet,0.223375,6,1
+Dexmedetomidine Hydrochloride Injection,0.2169583333333333,15,6
+Atropine Sulfate Injection,0.21358333333333335,8,2
+Rocuronium Bromide Injection,0.18512499999999998,11,2
