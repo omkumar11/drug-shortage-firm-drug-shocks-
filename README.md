@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23630836.svg)](https://doi.org/10.5281/zenodo.23630836)
+
 # Code for "Manufacturer-Level and Drug-Level Shocks on the U.S. Drug Shortage List: Identification, Persistence and Supplier Redundancy" (Kumar & Salwekar)
 
 Everything in the manuscript is produced by `python run_all.py` from public FDA data.
