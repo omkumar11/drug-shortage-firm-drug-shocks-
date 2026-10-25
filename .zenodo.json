@@ -1,0 +1,11 @@
+{
+  "title": "Code and data for: Manufacturer-Level and Drug-Level Shocks on the U.S. Drug Shortage List: Identification, Persistence and Supplier Redundancy",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Kumar, Om", "affiliation": "Green Level High School, Cary, NC, USA", "orcid": "0009-0008-1020-3465"},
+    {"name": "Salwekar, Ishaan", "affiliation": "Green Level High School, Cary, NC, USA", "orcid": "0009-0005-7408-773X"}
+  ],
+  "description": "Python code, raw public FDA exports (openFDA drug shortages, NDC Directory and enforcement; Orange Book; FDA Data Dashboard inspection classifications) and processed tables that reproduce every number, table and figure of the paper 'Manufacturer-Level and Drug-Level Shocks on the U.S. Drug Shortage List: Identification, Persistence and Supplier Redundancy' (Kumar and Salwekar, submitted to MDPI Logistics). The 130 Internet Archive captures of the FDA Drug Shortage Database CSV are pinned by Wayback timestamp and SHA-256 in data/raw/archive_csv/manifest.csv and re-downloaded by download_archive_csv.py.",
+  "keywords": ["drug shortages", "pharmaceutical supply chain", "supplier redundancy", "openFDA", "latent class model"]
+}

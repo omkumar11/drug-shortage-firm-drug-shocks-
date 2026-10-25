@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this archive."
+title: "Code and data for: Manufacturer-Level and Drug-Level Shocks on the U.S. Drug Shortage List: Identification, Persistence and Supplier Redundancy"
+type: software
+version: "1.0"
+date-released: 2026-10-25
+license: MIT
+repository-code: "https://github.com/omkumar11/drug-shortage-firm-drug-shocks-"
+authors:
+  - family-names: Kumar
+    given-names: Om
+    orcid: "https://orcid.org/0009-0008-1020-3465"
+    affiliation: "Green Level High School, Cary, NC, USA"
+  - family-names: Salwekar
+    given-names: Ishaan
+    orcid: "https://orcid.org/0009-0005-7408-773X"
+    affiliation: "Green Level High School, Cary, NC, USA"
+keywords:
+  - drug shortages
+  - pharmaceutical supply chain
+  - supplier redundancy
+  - openFDA
+  - latent class model
